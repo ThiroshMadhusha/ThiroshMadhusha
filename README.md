@@ -73,11 +73,22 @@
 <hr></hr>
 
 <p>
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=it20146238&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="IT20146238" />
+<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=it20146238&theme=tokyonight" alt="it20146238" />
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<p>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=it20146238&theme=gruvbox&amp" alt="it20146238" /></p> 
 <p>  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=it20146238&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="IT20146238" /></p>
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it20146238&theme=tokyonight" alt="it20146238" /></p> 
+
 <br/>
 <hr></hr>
 <p><img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it20146238&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="it20146238" />
