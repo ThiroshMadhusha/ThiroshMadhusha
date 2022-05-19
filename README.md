@@ -3,7 +3,7 @@
 <h3 align="center">Undergraduate Student at Sri Lanka Institute of Information Technology (SLIIT).</h3>
 <hr></hr>
 
-<img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
+<img align="right" alt="Coding" width="350" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20146238&label=Profile%20views&color=0e75b6&style=flat" alt="it20146238" /> </p>
