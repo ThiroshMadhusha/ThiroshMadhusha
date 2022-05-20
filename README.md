@@ -3,12 +3,12 @@
 <h3 align="center">Undergraduate Student at Sri Lanka Institute of Information Technology (SLIIT).</h3>
 <hr></hr>
 
-<img align="center" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
 
+<p><img width="400" align="right" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20146238&label=Profile%20views&color=0e75b6&style=flat" alt="it20146238" /> </p>
 
-<p align="left"> <a href="https://twitter.com/thiroshmadhusha" target="blank"><img src="https://img.shields.io/twitter/follow/thiroshmadhusha?logo=twitter&style=for-the-badge" alt="thiroshmadhusha" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thiroshmadhusha" target="blank"><img src="https://img.shields.io/twitter/follow/thiroshmadhusha?logo=twitter&style=for-the-badge" alt="thiroshmadhusha" /></a> 
 
 - 🔭 I’m currently working on **Freelancer**
 
@@ -25,6 +25,8 @@
 - 📫 How to reach me **thiroshmadhusha0520@gmail.com**
 
 - ⚡ Fun fact **Sometime, Playing Fun Games with My Friends**
+  
+  </p>
 
 <br/>
 <hr></hr>
@@ -74,6 +76,7 @@
 
 <p>
 <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=it20146238&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="IT20146238" />
+  
 <img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=it20146238&theme=tokyonight" alt="it20146238" />
 </p>
 
@@ -92,6 +95,5 @@
 <br/>
 <hr></hr>
 <p><img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it20146238&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="it20146238" />
-<p><img width="40%" align="center" src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif" alt="it20146238" />
-</p>
 
+<p><img width="40%" align="right" src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="flag" />
