@@ -3,7 +3,7 @@
 <h3 align="center">Undergraduate Student at Sri Lanka Institute of Information Technology (SLIIT).</h3>
 <hr></hr>
 
-<img align="right" alt="Coding" width="350" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
+<img align="center" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20146238&label=Profile%20views&color=0e75b6&style=flat" alt="it20146238" /> </p>
@@ -92,6 +92,6 @@
 <br/>
 <hr></hr>
 <p><img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it20146238&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="it20146238" />
-<p><img width="40%" align="right" src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif" alt="it20146238" />
+<p><img width="40%" align="center" src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif" alt="it20146238" />
 </p>
 
