@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/thiroshmadhusha" target="blank"><img src="https://img.shields.io/twitter/follow/thiroshmadhusha?logo=twitter&style=for-the-badge" alt="thiroshmadhusha" /></a> 
 
-- 🔭 I’m currently working on **Freelancer**
+- 🔭 I’m currently studying on **SLIIT**
 
 - 🌱 I’m currently learning **Information Technology @SLIIT**
 
