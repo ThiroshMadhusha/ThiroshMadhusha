@@ -4,11 +4,13 @@
 <hr></hr>
 
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=it20146238&label=Profile%20views&color=0e75b6&style=flat" alt="it20146238" /> 
+</p><p align="right"> <img src="https://img.shields.io/github/followers/it20146238?label=Followers&style=social" alt="followers" /> </p>
+<br/>
 <p><img width="400" align="right" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gif" />
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it20146238&label=Profile%20views&color=0e75b6&style=flat" alt="it20146238" /> </p>
-
-<p align="left"> <a href="https://twitter.com/thiroshmadhusha" target="blank"><img src="https://img.shields.io/twitter/follow/thiroshmadhusha?logo=twitter&style=for-the-badge" alt="thiroshmadhusha" /></a> 
+<h3 align="left">About me:</h3>
 
 - 🔭 I’m currently studing on **SLIIT**
 
@@ -41,8 +43,6 @@
 </p>
 
 
-<br/>
-<hr></hr>
 <!--  Languages Tools Dataases and Frameworks -->
 <h3 align="left">Languages:</h3>
 <p align="left"> 
