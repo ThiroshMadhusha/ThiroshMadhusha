@@ -4,7 +4,7 @@
 <hr></hr>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=it20146238&label=Profile%20views&color=0e75b6&style=flat" alt="it20146238" /> 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=it20146238&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /> 
 </p><p align="right"> <img src="https://img.shields.io/github/followers/it20146238?label=Followers&style=social" alt="followers" /> </p>
 <br/>
 <p><img width="400" align="right" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gif" />
@@ -75,9 +75,9 @@
 <hr></hr>
 
 <p>
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=it20146238&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="IT20146238" />
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=it20146238&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="githubStatus" />
   
-<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=it20146238&theme=tokyonight" alt="it20146238" />
+<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=it20146238&theme=tokyonight" alt="contributionStreak" />
 </p>
 
 <br/>
@@ -89,11 +89,11 @@
 <br/>
 <br/>
 <p>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=it20146238&theme=gruvbox&amp" alt="it20146238" /></p> 
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=it20146238&theme=gruvbox&amp" alt="contributionGraph" /></p> 
 <p>  
 
 <br/>
 <hr></hr>
-<p><img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it20146238&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="it20146238" />
+<p><img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it20146238&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="language" />
 
 <p><img width="40%" align="right" src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="flag" />
