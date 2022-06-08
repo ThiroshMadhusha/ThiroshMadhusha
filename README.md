@@ -6,6 +6,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=it20146238&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /> 
 </p><p align="right"> <img src="https://img.shields.io/github/followers/it20146238?label=Followers&style=social" alt="followers" /> </p>
+</p><p align="right"> <img src="https://img.shields.io/youtube/channel/subscribers/UC1Uf3E9XAlnwrxfbNjU3ByA?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630" alt="followers" /> </p>
 <br/>
 <p><img width="400" align="right" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gif" />
   
@@ -77,7 +78,7 @@
 <p>
 <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=it20146238&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="githubStatus" />
   
-<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=it20146238&theme=tokyonight" alt="contributionStreak" />
+<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=it20146238&theme=tokyonight" style="max-width: 100%;" alt="contributionStreak" />
 </p>
 
 <br/>
