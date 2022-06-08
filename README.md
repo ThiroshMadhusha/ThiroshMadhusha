@@ -89,7 +89,7 @@
 <br/>
 <br/>
 <p>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=it20146238&theme=gruvbox&amp" alt="contribution Graph" /></p> 
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=it20146238&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" /></p> 
 <p>  
 
 <br/>
