@@ -20,7 +20,7 @@
 
 - 🤝 I’m looking for help with **Project Group Mates**
 
-- 👨‍💻 All of my projects are available at [https://github.com/IT20146238](https://github.com/IT20146238)
+- 👨‍💻 All of my projects are available at my github [https://github.com/IT20146238](https://github.com/IT20146238)
 
 - 💬 Ask me about **Web Application, MERN Stack**
 
