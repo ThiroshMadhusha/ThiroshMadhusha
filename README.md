@@ -12,17 +12,17 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently studing on **SLIIT**
+- 🔭 I’m Currently Studing on **SLIIT**
 
-- 🌱 I’m currently learning **Information Technology @SLIIT**
+- 🌱 I’m Currently Learning **Information Technology @SLIIT**
 
-- 👯 I’m looking to collaborate on **Client**
+- 👯 I’m Looking to Collaborate on **Client**
 
-- 🤝 I’m looking for help with **Project Group Mates**
+- 🤝 I’m Looking for Help With **Project Group Mates**
 
-- 👨‍💻 All of my projects are available at my github [https://github.com/IT20146238](https://github.com/IT20146238)
+- 👨‍💻 All of My Projects are Available at My GitHub [https://github.com/IT20146238](https://github.com/IT20146238)
 
-- 💬 Ask me about **Web Application, MERN Stack**
+- 💬 Ask Me About **Web Application, MERN Stack**
 
 - 📫 How to reach me **thiroshmadhusha0520@gmail.com**
 
