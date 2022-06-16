@@ -45,9 +45,14 @@
 <table>
   <tr>
     <th>
-      New Table
+      Create New Table Header Part
       </th>
     </tr>
+  <tr>
+    <td>
+      Create New Table Body
+    </td>
+  </tr>
   </table>
 
 <!--  Languages Tools Dataases and Frameworks -->
