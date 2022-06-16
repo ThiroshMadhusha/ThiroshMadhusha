@@ -44,7 +44,10 @@
 
 <table>
   <tr>
-    <tr>
+    <th>
+      New Table
+      </th>
+    </tr>
   </table>
 
 <!--  Languages Tools Dataases and Frameworks -->
