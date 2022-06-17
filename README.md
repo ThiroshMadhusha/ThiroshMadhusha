@@ -90,11 +90,11 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/ThiroshMadhusha/github-readme-streak-stats">
-    <img width="47%" align="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ThiroshMadhusha's streak" src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="githubStatus" />
+    <img width="48%" align="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ThiroshMadhusha's streak" src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="githubStatus" />
   </a>
   
   <a href="https://github.com/ThiroshMadhusha/github-readme-cotribution-stats">
-    <img width="47%" align="right" title="🔥 Get streak stats for your profile at git.io/contribution-stats" alt="ThiroshMadhusha's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ThiroshMadhusha&theme=tokyonight&hide_border=true"/>
+    <img width="48%" align="right" title="🔥 Get streak stats for your profile at git.io/contribution-stats" alt="ThiroshMadhusha's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ThiroshMadhusha&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
