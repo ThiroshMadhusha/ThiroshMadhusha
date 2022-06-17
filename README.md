@@ -102,10 +102,10 @@
 
 # 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/ThiroshMadhusha/github-readme-stats -->
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=ThiroshMadhusha&theme=react-dark&hide_border=true" /></a>
+<!-- https://github.com/ThiroshMadhusha/github-readme-activity-graph -->
+<a href="https://github.com/ThiroshMadhusha/github-readme-activity-graph"><img alt="Thirosh Madhusha's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=ThiroshMadhusha&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" /></a>
 
 
 <!-- <p>
