@@ -3,6 +3,7 @@
 <h3 align="center">3rd Year Undergraduate Student at Sri Lanka Institute of Information Technology (SLIIT).</h3>
 <hr></hr>
 
+<!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1Uf3E9XAlnwrxfbNjU3ByA?label=YouTube%20Subscribers!&style=social)](https://www.youtube.com/channel/UC1Uf3E9XAlnwrxfbNjU3ByA?sub_confirmation=1) -->
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ThiroshMadhusha&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /> 
 </p><p align="right"> <img src="https://img.shields.io/github/followers/ThiroshMadhusha?label=Followers&style=social" alt="followers" /> </p>
@@ -86,11 +87,22 @@
 <br/>
 <hr></hr>
 
-<p>
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/ThiroshMadhusha/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ThiroshMadhusha's streak" src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="githubStatus" />
+  </a>
+  
+  <a href="https://github.com/ThiroshMadhusha/github-readme-cotribution-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/contribution-stats" alt="ThiroshMadhusha's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ThiroshMadhusha&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
+
+<!-- <p>
 <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="githubStatus" />
   
 <img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiroshMadhusha&theme=tokyonight" style="max-width: 100%;" alt="contributionStreak" />
-</p>
+</p> -->
 
 <br/>
 <br/>
