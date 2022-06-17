@@ -4,8 +4,8 @@
 <hr></hr>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=it20146238&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /> 
-</p><p align="right"> <img src="https://img.shields.io/github/followers/it20146238?label=Followers&style=social" alt="followers" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ThiroshMadhusha&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /> 
+</p><p align="right"> <img src="https://img.shields.io/github/followers/ThiroshMadhusha?label=Followers&style=social" alt="followers" /> </p>
 <br/>
 <p><img width="400" align="right" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gif" />
   
@@ -20,7 +20,7 @@
 
 - 🤝 I’m Looking for Help With **Project Group Mates**
 
-- 👨‍💻 All of My Projects are Available at My GitHub [https://github.com/IT20146238](https://github.com/IT20146238)
+- 👨‍💻 All of My Projects are Available at My GitHub [https://github.com/ThiroshMadhusha](https://github.com/ThiroshMadhusha)
 
 - 💬 Ask Me About **Web Application, MERN Stack**
 
@@ -38,7 +38,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/thirosh-madhusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thirosh-madhusha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16248685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16248685" height="30" width="40" /></a>
-<a href="https://github.com/IT20146238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="IT20146238" height="30" width="40" /></a>
+<a href="https://github.com/ThiroshMadhusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="ThiroshMadhusha" height="30" width="40" /></a>
 <a href="https://twitter.com/thiroshmadhusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thiroshmadhusha" height="30" width="40" /></a>
 </p>
 
@@ -87,9 +87,9 @@
 <hr></hr>
 
 <p>
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=it20146238&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="githubStatus" />
+<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="githubStatus" />
   
-<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=it20146238&theme=tokyonight" style="max-width: 100%;" alt="contributionStreak" />
+<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiroshMadhusha&theme=tokyonight" style="max-width: 100%;" alt="contributionStreak" />
 </p>
 
 <br/>
@@ -101,12 +101,12 @@
 <br/>
 <br/>
 <p>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=it20146238&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" /></p> 
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=ThiroshMadhusha&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" /></p> 
 <p>  
 
 <br/>
 <hr></hr>
-<p><img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it20146238&langs_count=15&count_private=true&layout=compact&theme=tokyonight" alt="language" />
+<p><img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiroshMadhusha&langs_count=15&count_private=true&layout=compact&theme=tokyonight" alt="language" />
 
     
 <p><img width="40%" align="right" src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="flags" />
