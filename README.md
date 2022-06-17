@@ -87,9 +87,9 @@
 <br/>
 <hr></hr>
 
-# 🔥 Streak stats
+## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- GitHub Readme Streak Stats - https://github.com/ThiroshMadhusha/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/ThiroshMadhusha/github-readme-streak-stats">
     <img width="47%" align="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ThiroshMadhusha's streak" src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="githubStatus" />
@@ -100,13 +100,26 @@
   </a>
 </p>
 
-# 📊 Github stats
+
+## 📊 Github Contribution Graph Status
 
 <!-- https://github.com/ThiroshMadhusha/github-readme-stats -->
 
 <!-- https://github.com/ThiroshMadhusha/github-readme-activity-graph -->
 <a href="https://github.com/ThiroshMadhusha/github-readme-activity-graph"><img alt="Thirosh Madhusha's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=ThiroshMadhusha&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" /></a>
 
+## 💻 GitHub Profile Status
+<!-- GitHub Readme languages Stats - https://github.com/ThiroshMadhusha/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/ThiroshMadhusha/github-readme-streak-stats">
+    <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiroshMadhusha&langs_count=15&count_private=true&layout=compact&theme=tokyonight" alt="language" />
+  </a>
+  
+  <a href="https://github.com/ThiroshMadhusha/github-readme-cotribution-stats">
+    <img width="47%" align="right" src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="flags" />
+
+  </a>
+</p>
 
 <!-- <p>
 <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="githubStatus" />
@@ -125,10 +138,11 @@
 <p>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ThiroshMadhusha&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" /></p> 
 <p>   -->
-
+<!-- 
 <br/>
 <hr></hr>
-<p><img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiroshMadhusha&langs_count=15&count_private=true&layout=compact&theme=tokyonight" alt="language" />
+<p><img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiroshMadhusha&langs_count=15&count_private=true&layout=compact&theme=tokyonight" alt="language" />
 
     
-<p><img width="40%" align="right" src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="flags" />
+<p><img width="47%" align="right" src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="flags" />
+ -->
