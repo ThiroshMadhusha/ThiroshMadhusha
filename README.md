@@ -15,7 +15,7 @@
 
 - 🔭 I’m Currently Studing on **SLIIT**
 
-- 🌱 I’m Currently Learning **Information Technology @SLIIT**
+- 🌱 I’m Currently Learning **MERN Stack**
 
 - 👯 I’m Looking to Collaborate on **Client**
 
@@ -33,7 +33,10 @@
 
 <br/>
 <hr></hr>
-<h3 align="left">Connect with me:
+
+## 🙋‍♂️ -- **Connect with me** --
+
+<h3 align="left">
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"></a>
 </h3>
 <p align="left">
@@ -43,6 +46,8 @@
 <a href="https://twitter.com/thiroshmadhusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thiroshmadhusha" height="30" width="40" /></a>
 </p>
 
+<br/>
+<hr></hr>
 <table>
   <tr>
     <th>
@@ -87,7 +92,7 @@
 <br/>
 <hr></hr>
 
-## 🔥 Streak stats
+## 🔥 -- **GitHub Streak Status** --
 
 <!-- GitHub Readme Streak Stats - https://github.com/ThiroshMadhusha/github-readme-streak-stats -->
 <p align="center">
@@ -101,14 +106,14 @@
 </p>
 
 
-## 📊 Github Contribution Graph Status
+## 📊 -- **GitHub Contribution Graph Status** --
 
 <!-- https://github.com/ThiroshMadhusha/github-readme-stats -->
 
 <!-- https://github.com/ThiroshMadhusha/github-readme-activity-graph -->
 <a href="https://github.com/ThiroshMadhusha/github-readme-activity-graph"><img alt="Thirosh Madhusha's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=ThiroshMadhusha&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" /></a>
 
-## 💻 GitHub Profile Status
+## 💻 -- **GitHub Languages Status** --
 <!-- GitHub Readme languages Stats - https://github.com/ThiroshMadhusha/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/ThiroshMadhusha/github-readme-streak-stats">
