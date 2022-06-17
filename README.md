@@ -87,6 +87,8 @@
 <br/>
 <hr></hr>
 
+# 🔥 Streak stats
+
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/ThiroshMadhusha/github-readme-streak-stats">
@@ -98,13 +100,21 @@
   </a>
 </p>
 
+# 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=ThiroshMadhusha&theme=react-dark&hide_border=true" /></a>
+
+
 <!-- <p>
 <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="githubStatus" />
   
 <img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiroshMadhusha&theme=tokyonight" style="max-width: 100%;" alt="contributionStreak" />
 </p> -->
 
-<br/>
+<!-- <br/>
 <br/>
 <br/>
 <br/>
@@ -114,7 +124,7 @@
 <br/>
 <p>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ThiroshMadhusha&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" /></p> 
-<p>  
+<p>   -->
 
 <br/>
 <hr></hr>
