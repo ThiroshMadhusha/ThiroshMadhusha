@@ -106,6 +106,7 @@
 
 <br/>
 <hr></hr>
-<p><img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it20146238&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="language" />
+<p><img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it20146238&langs_count=15&count_private=true&layout=compact&theme=tokyonight" alt="language" />
 
+    
 <p><img width="40%" align="right" src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="flags" />
