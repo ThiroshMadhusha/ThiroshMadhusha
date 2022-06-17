@@ -50,19 +50,39 @@
 <hr></hr>
 <table>
   <tr>
-    <th>
-      Create New Table Header Part
-      </th>
-    </tr>
-  <tr>
-    <td>
-      Create New Table Body
-    </td>
+    <th>Programming Languages</th>
+    <td> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/> <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+
+</td>
   </tr>
-  </table>
+  <tr>
+    <th>Tools & Version Control</th>
+    <td> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="IT20146238" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8LVsE0iKFckVLAsYuW6HTHABUbhwYInWzoRlMpnWjAtAF8oFnxwiX3rqzzqu0R2wmiR8&usqp=CAU" alt="selenium" width="40" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYSZvqNnchf_6XDKf5FsHxhlfX4dKNxP5OqhkAY_1Dx1vgVIODscCOYZs8E2U_qpCJJT4&usqp=CAU" alt="sonarqube" width="40" height="40"/>  </td>
+  </tr>
+  <tr>
+    <th>Frameworks,Platforms & Libraries</th>
+    <td> <img src ="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src ="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <img src ="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/> <img src ="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> <img src ="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/> <img src ="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/> </td>
+  </tr>
+  <tr>
+    <th>Databases</th>
+    <td> <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" /> <img src= "https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white /">
+
+
+
+</td>
+  </tr>
+  <tr>
+    <th>Servers</th>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/tomcat-1-1175084.png" alt="tomcat" width="40" height="40"/> <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/xampp-icon.png" alt="xaamp" width="40" height="40"/> </td>
+  </tr>
+  <tr>
+    <th>Softwares</th>
+    <td><img src ="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src ="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=purple&labelColor=darkorchid"/> <img src ="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img src ="https://img.shields.io/badge/Insomnia-fuchsia?style=for-the-badge&logo=insomnia&logoColor=5849BE"/> <img src ="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/> <img src ="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/> <img src ="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=lime&labelColor=green"/> <img src ="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/> <img src ="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/></td>
+  </tr>
+</table>
 
 <!--  Languages Tools Dataases and Frameworks -->
-<h3 align="left">Languages:</h3>
+<!-- <h3 align="left">Languages:</h3>
 <p align="left"> 
   
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -72,22 +92,22 @@
 <h3 align="left">Tools:</h3>
 <a href="https://github.com/github" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" alt="IT20146238" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8LVsE0iKFckVLAsYuW6HTHABUbhwYInWzoRlMpnWjAtAF8oFnxwiX3rqzzqu0R2wmiR8&usqp=CAU" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYSZvqNnchf_6XDKf5FsHxhlfX4dKNxP5OqhkAY_1Dx1vgVIODscCOYZs8E2U_qpCJJT4&usqp=CAU" alt="sonarqube" width="40" height="40"/> </a>
- 
- 
+  -->
+<!--  
 <h3 align="left">Database:</h3>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/products/workbench/" target="_blank" rel="noreferrer"> <img src="https://webdevolutions.blob.core.windows.net/blog/2013/02/MySQLWorkbench.png" alt="workbench" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/mysql-logo.png" alt="sql" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-
-
+ -->
+<!-- 
 <h3 align="left">Softwares:</h3>
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/visual-studio--v1.png" alt="visualstudio" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/128/visualstudiocode_93981.png" alt="vscode" width="40" height="40"/> </a> <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/eclipse-icon.png" alt="eclips" width="40" height="40"/> </a> <a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/VMware-icon.png" alt="vmware" width="40" height="40"/> </a> </a> <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/128/intellij_pycharm_alt_macos_bigsur_icon_190054.png" alt="pycharm" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/120px-PhpStorm_Icon.svg.png?20200803075927" alt="phpstorm" width="40" height="40"/> </a> <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/cisco-icon/cisco-icon-23.jpg" alt="cisco" width="40" height="40"/> </a> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY6eB9SIHbNiuXMdtP5Dr0c9QhwbP272YxHWFuwUDrQqLmL0ScNrLNjlfoLRi7DiRfAYU&usqp=CAU" alt="androidstudio" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/intellij-idea.png" alt="intellij" width="40" height="40"/> </a> <a href="https://www.codeblocks.org/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTj1hoXU7vuMe7cuKxo-0DKZrwUEOeYNfXsj2d63FyOdk3IJ1leO-f&usqp=CAE&s" alt="codeblock" width="40" height="40"/> </a> <a href="https://sourceforge.net/projects/orwelldevcpp/" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/hopstarter/sleek-xp-software/128/Dev-icon.png" alt="dev" width="40" height="40"/> </a>
-
-<h3 align="left">Servers:</h3> 
+ -->
+<!-- <h3 align="left">Servers:</h3> 
 <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-64/tomcat-1-1175084.png" alt="tomcat" width="40" height="40"/> </a> <a href="https://www.apachefriends.org/index.html" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/xampp-icon.png" alt="xaamp" width="40" height="40"/> </a> 
-
-
+ -->
+<!-- 
 <h3 align="left">Frameworks:</h3> 
 <a href="https://www.djangoproject.com//" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/2x/django.png" alt="django" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-</p>
+</p> -->
 
 <br/>
 <hr></hr>
