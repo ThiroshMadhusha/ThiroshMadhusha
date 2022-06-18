@@ -1,6 +1,10 @@
 ![MasterHead](https://www.malabaronlinesolutions.com/img/2.gif)
-<h1 align="center">Hi 👋, I'm Thirosh Madhusha</h1>
-<h3 align="center">3rd Year Undergraduate Student at Sri Lanka Institute of Information Technology (SLIIT).</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;I'm+Thirosh+Madhusha+Jayathunga;I'm+a+Web+Developer!;I'm+a+Web+Designer!&font=Fira%50Code&center=true&width=380&height=50">
+</p>
+<!-- <h1 align="center">Hi 👋, I'm Thirosh Madhusha</h1> -->
+<h3 align="center">I'm 3rd Year Undergraduate Student at Sri Lanka Institute of Information Technology (SLIIT).</h3>
 <hr></hr>
 
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1Uf3E9XAlnwrxfbNjU3ByA?label=YouTube%20Subscribers!&style=social)](https://www.youtube.com/channel/UC1Uf3E9XAlnwrxfbNjU3ByA?sub_confirmation=1) -->
@@ -133,6 +137,9 @@
 
 <!-- https://github.com/ThiroshMadhusha/github-readme-activity-graph -->
 <a href="https://github.com/ThiroshMadhusha/github-readme-activity-graph"><img alt="Thirosh Madhusha's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=ThiroshMadhusha&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" /></a>
+<!-- /*
+## 🐍 -- **Snake eating my contributions graph** --
+*/ -->
 
 ## 💻 -- **GitHub Languages Status** --
 <!-- GitHub Readme languages Stats - https://github.com/ThiroshMadhusha/github-readme-streak-stats -->
