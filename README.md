@@ -25,7 +25,7 @@
 
 - 🤝 I’m Looking for Help With **Project Group Mates**
 
-- 👨‍💻 All of My Projects are Available at My GitHub [https://github.com/ThiroshMadhusha](https://github.com/ThiroshMadhusha)
+- 👨‍💻 All of My Projects are Available at <a href="https://github.com/ThiroshMadhusha" >My GitHub </a>
 
 - 💬 Ask Me About **Web Application, MERN Stack**
 
