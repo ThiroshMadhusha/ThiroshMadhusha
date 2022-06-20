@@ -132,6 +132,8 @@
 
 
 ## 📊 -- **GitHub Contribution Graph Status** --
+<p>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=ThiroshMadhusha&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" /></p>
 
 <!-- https://github.com/ThiroshMadhusha/github-readme-stats -->
 
