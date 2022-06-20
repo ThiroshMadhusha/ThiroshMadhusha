@@ -132,13 +132,12 @@
 
 
 ## 📊 -- **GitHub Contribution Graph Status** --
-<p>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=ThiroshMadhusha&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" /></p>
 
 <!-- https://github.com/ThiroshMadhusha/github-readme-stats -->
-
+<a href="https://github.com/ThiroshMadhusha/github-readme-activity-graph">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ThiroshMadhusha&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" /></a>
 <!-- https://github.com/ThiroshMadhusha/github-readme-activity-graph -->
-<a href="https://github.com/ThiroshMadhusha/github-readme-activity-graph"><img alt="Thirosh Madhusha's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=ThiroshMadhusha&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" /></a>
+<!-- <a href="https://github.com/ThiroshMadhusha/github-readme-activity-graph"><img alt="Thirosh Madhusha's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=ThiroshMadhusha&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" /></a> -->
 <!-- /*
 ## 🐍 -- **Snake eating my contributions graph** --
 */ -->
