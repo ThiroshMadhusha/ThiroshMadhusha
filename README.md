@@ -27,7 +27,7 @@
 
 - 👨‍💻 All of My Projects are Available at <a href="https://github.com/ThiroshMadhusha" >My GitHub </a>
 
-- 💬 Ask Me About **Web Application, MERN Stack**
+- 💬 Ask Me About **MERN Stack**
 
 - 📫 How to reach me **thiroshmadhusha0520@gmail.com**
 
