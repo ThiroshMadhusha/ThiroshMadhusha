@@ -1,6 +1,6 @@
 ![MasterHead](https://www.malabaronlinesolutions.com/img/2.gif)
 
-<-- About Section -->
+<!-- About Section -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;I'm+Thirosh+Madhusha+Jayathunga;I'm+a+Web+Developer!;I'm+a+Web+Designer!&font=Fira%50Code&center=true&width=380&height=50">
 </p>
