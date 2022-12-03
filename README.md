@@ -1,6 +1,6 @@
 <p>
 <a href="https://github.com/ThiroshMadhusha/github-readme-cotribution-stats">
-    <img width="47%" align="right" src="https://camo.githubusercontent.com/424c6fb20e90db09bbde85dc9054313032e04abef6ecc4a38ba02ff52dda9fb0/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f736974652f686f6d652f666f6f7465722d696c6c757374726174696f6e2e776562703f726573697a653d31323030253243363330" alt="flags" />
+    <img width="40%" align="right" src="https://camo.githubusercontent.com/424c6fb20e90db09bbde85dc9054313032e04abef6ecc4a38ba02ff52dda9fb0/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f736974652f686f6d652f666f6f7465722d696c6c757374726174696f6e2e776562703f726573697a653d31323030253243363330" alt="flags" />
 </a>
 </p>
 <br/>
@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;I+am+Thirosh+Madhusha+Jayathunga;I'm+a+Web+Developer!;I'm+a+Web+Designer!&font=Fira%50Code&center=true&width=380&height=50">
 </p>
 <!-- <h1 align="center">Hi 👋, I'm Thirosh Madhusha</h1> -->
-<h3 align="center">I'm 3rd Year Undergraduate Student at Sri Lanka Institute of Information Technology(SLIIT).</h3>
+<h3 align="center">I'm 3rd Year Undergraduate Student at Sri Lanka Institute of Information Technology (SLIIT).</h3>
 <hr></hr>
 
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1Uf3E9XAlnwrxfbNjU3ByA?label=YouTube%20Subscribers!&style=social)](https://www.youtube.com/channel/UC1Uf3E9XAlnwrxfbNjU3ByA?sub_confirmation=1) -->
