@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;I+am+Thirosh+Madhusha+Jayathunga;I'm+a+Web+Developer!;I'm+a+Web+Designer!&font=Fira%50Code&center=true&width=380&height=50">
 </p>
 <!-- <h1 align="center">Hi 👋, I'm Thirosh Madhusha</h1> -->
-<h3 align="center">I am 3rd Year Undergraduate Student at Sri Lanka Institute of Information Technology(SLIIT).</h3>
+<h3 align="center">I'm 3rd Year Undergraduate Student at Sri Lanka Institute of Information Technology(SLIIT).</h3>
 <hr></hr>
 
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1Uf3E9XAlnwrxfbNjU3ByA?label=YouTube%20Subscribers!&style=social)](https://www.youtube.com/channel/UC1Uf3E9XAlnwrxfbNjU3ByA?sub_confirmation=1) -->
