@@ -46,6 +46,18 @@
 
 <br/>
 
+<p align="center">
+
+```
+For SLIIT Academic Purposes
+
+Student IT : IT20146238
+Student Name : Jayathunga T.M.
+```
+
+</p>
+<br/>
+
 [![@thiroshmadhusha's Holopin board](https://holopin.me/thiroshmadhusha)](https://holopin.io/@thiroshmadhusha)
 <hr></hr>
 
