@@ -1,3 +1,8 @@
+## 👋 Check My Portfolio 👋
+```
+💻 Portfolio Link 
+```
+🙋‍ https://thiroshmadhusha.github.io/portfolio/
 <p>
 <a href="https://github.com/ThiroshMadhusha/github-readme-cotribution-stats">
     <img width="40%" high="50%" align="right" src="https://camo.githubusercontent.com/424c6fb20e90db09bbde85dc9054313032e04abef6ecc4a38ba02ff52dda9fb0/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f736974652f686f6d652f666f6f7465722d696c6c757374726174696f6e2e776562703f726573697a653d31323030253243363330" alt="flags" />
@@ -40,7 +45,7 @@
 
 - 📫 How to reach me **thiroshmadhusha0520@gmail.com**
 
-- ⚡ Fun fact **Sometime, Playing Fun Games with My Friends**
+<!-- - ⚡ Fun fact **Sometime, Playing Fun Games with My Friends** -->
   
   </p>
 
