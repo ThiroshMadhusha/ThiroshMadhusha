@@ -13,6 +13,15 @@
 <br/>
 
 
+## 📊 My stackoverflow and Github Status
+
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=10656685&theme=dark" />
+<a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MadhushaPrasad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+  <a href="https://github.com/MadhushaPrasad/github-readme-stats"><img alt="Madhusha Prasad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhushaPrasad&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+
+  <br/>
+
+
 ![MasterHead](https://www.malabaronlinesolutions.com/img/2.gif)
 
 <!-- My About Section -->
