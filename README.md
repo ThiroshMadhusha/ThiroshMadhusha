@@ -41,19 +41,19 @@
 
 ## 🙋‍♂️ -- **About Me **--
 
-- 🔭 I’m Currently Studing on **SLIIT**
+- 🔭 I’m Currently Studing on <a href="https://www.sliit.lk/">***SLIIT***</a>
 
-- 🌱 I’m Currently Learning **MERN Stack**
+- 🌱 I’m Currently Learning ***MERN Stack***
 
-- 👯 I’m Looking for an **Internship**
+- 👯 I’m Looking for an ***Internship***
 
-- 🤝 I’m Looking for Help With **Project Group Mates**
+- 🤝 I’m Looking for Help With ***Project Group Mates***
 
-- 👨‍💻 All of My Projects are Available in <a href="[https://github.com/ThiroshMadhusha](https://github.com/orgs/SLIIT-My-Projects-Works/repositories)" >My Project </a>
+- 👨‍💻 All of My University Projects are Available in <a href="https://github.com/orgs/SLIIT-My-Projects-Works/repositories" >***My Project***</a>
 
-- 💬 Ask Me About **MERN Stack**
+- 💬 Ask Me About ***MERN Stack***
 
-- 📫 How to reach me **thiroshmadhusha0520@gmail.com**
+- 📫 How to reach me ***thiroshmadhusha0520@gmail.com***
 
 <!-- - ⚡ Fun fact **Sometime, Playing Fun Games with My Friends** -->
   
