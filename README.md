@@ -45,11 +45,11 @@
 
 - 🌱 I’m Currently Learning **MERN Stack**
 
-- 👯 I’m Looking to Collaborate on **Client**
+- 👯 I’m Looking for an **Internship**
 
 - 🤝 I’m Looking for Help With **Project Group Mates**
 
-- 👨‍💻 All of My Projects are Available at <a href="https://github.com/ThiroshMadhusha" >My GitHub </a>
+- 👨‍💻 All of My Projects are Available in <a href="[https://github.com/ThiroshMadhusha](https://github.com/orgs/SLIIT-My-Projects-Works/repositories)" >My Project </a>
 
 - 💬 Ask Me About **MERN Stack**
 
