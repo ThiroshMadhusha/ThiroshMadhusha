@@ -13,7 +13,7 @@
 <br/>
 
 
-## 📫 My stackoverflow Status
+## 📫 My Stackoverflow Status
 
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=16248685&theme=dark" />
 
@@ -25,15 +25,15 @@
 
 <!-- My About Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;I+am+Thirosh+Madhusha+Jayathunga;I'm+a+Web+Developer!;I'm+a+Web+Designer!&font=Fira%50Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;I+am+Thirosh+Madhusha+Jayathunga;I'm+a+QA+Engeneer!;I'm+a+Web+Developer!;I'm+a+Web+Designer!&font=Fira%50Code&center=true&width=380&height=50">
 </p>
 <!-- <h1 align="center">Hi 👋, I'm Thirosh Madhusha</h1> -->
-<h3 align="left">I'm 3rd Year Undergraduate Student at Sri Lanka Institute of Information Technology (SLIIT).</h3>
+<h3 align="left">I'm 3rd Year Undergraduate Student at the Sri Lanka Institute of Information Technology (SLIIT).</h3>
 <hr></hr>
 
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1Uf3E9XAlnwrxfbNjU3ByA?label=YouTube%20Subscribers!&style=social)](https://www.youtube.com/channel/UC1Uf3E9XAlnwrxfbNjU3ByA?sub_confirmation=1) -->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ThiroshMadhusha&label=Profile%20views&color=0e75b6&style=flat" alt="profileViews" /> 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ThiroshMadhusha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p><p align="right"> <img src="https://img.shields.io/github/followers/ThiroshMadhusha?label=Followers&style=social" alt="followers" /> </p>
 <br/>
 <p><img width="400" align="right" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gif" />
@@ -66,8 +66,8 @@
 ```
 For SLIIT Academic Purposes
 
-Student IT : IT20146238
-Student Name : Jayathunga T.M.
+Student IT: IT20146238
+Student Name: Jayathunga T.M.
 ```
 
 </p>
@@ -133,7 +133,7 @@ Student Name : Jayathunga T.M.
 <!-- GitHub Readme Streak Stats - https://github.com/ThiroshMadhusha/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/ThiroshMadhusha/github-readme-streak-stats">
-    <img width="47%" align="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ThiroshMadhusha's streak" src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="githubStatus" />
+    <img width="47%" align="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ThiroshMadhusha's streak" src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="GitHub status" />
   </a>
   
   <a href="https://github.com/ThiroshMadhusha/github-readme-cotribution-stats">
