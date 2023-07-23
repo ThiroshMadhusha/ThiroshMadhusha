@@ -143,17 +143,8 @@ Student Name: Jayathunga T.M.
 
 
 ## 📊 -- **My GitHub Contribution Graph Status** --
+[![ThiroshMadhusha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiroshMadhusha&bg_color=141321&color=fd428d&line=9e4c98&point=f7d747&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- https://github.com/ThiroshMadhusha/github-readme-stats -->
-<a href="https://github.com/ThiroshMadhusha/github-readme-activity-graph">
-    <!-- [![Thirosh's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ThiroshMadhusha&theme=redical&hide_border=true&area=true)](https://github.com/ThiroshMadhusha) -->
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ThiroshMadhusha&bg_color=141321&color=fd428d&line=9e4c98&point=f7d747&area=true&hide_border=true)](https://github.com/ThiroshMadhusha)
-
-<!--   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ThiroshMadhusha&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" /> -->
-</a>
-<!-- https://github.com/ThiroshMadhusha/github-readme-activity-graph -->
-<!-- <a href="https://github.com/ThiroshMadhusha/github-readme-activity-graph"><img alt="Thirosh Madhusha's Activity Graph" src="https://blooming-savannah-50472.herokuapp.com/graph?username=ThiroshMadhusha&theme=redical&hide_border=true&area=true" style="max-width: 100%;" alt="contribution Graph" /></a> -->
 <!-- /*
 ## 🐍 -- **Snake eating my contributions graph** --
 */ -->
@@ -162,7 +153,7 @@ Student Name: Jayathunga T.M.
 <!-- GitHub Readme languages Stats - https://github.com/ThiroshMadhusha/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/ThiroshMadhusha/github-readme-streak-stats">
-    <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiroshMadhusha&langs_count=15&count_private=true&layout=compact&theme=tokyonight" alt="language" />
+    <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiroshMadhusha&langs_count=6&count_private=true&layout=compact&theme=tokyonight" alt="language" />
   </a>
   
   <a href="https://github.com/ThiroshMadhusha/github-readme-cotribution-stats">
