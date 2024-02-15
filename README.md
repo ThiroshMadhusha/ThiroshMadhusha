@@ -19,7 +19,7 @@
 ## 🙋‍♂️ -- **Connect With Me** --
 
 <p align="center">
-<a href="https://api.whatsapp.com/send?phone=94714688971&text=" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/598px-WhatsApp_icon.png?20200503174721" height="60" width="60" /></a> &nbsp;&nbsp;
+<a href="https://api.whatsapp.com/send?phone=94714688971" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/WhatsApp_icon.png/598px-WhatsApp_icon.png?20200503174721" height="60" width="60" /></a> &nbsp;&nbsp;
 <a href="mailto:thiroshmadhusha0520@gmail.com?" subject="subject text" target="_blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="thirosh-madhusha" height="50" width="60" /></a> &nbsp;&nbsp;
 <a href="https://linkedin.com/in/thirosh-madhusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thirosh-madhusha" height="50" width="60" /></a> &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/16248685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16248685" height="50" width="60" /></a> &nbsp;&nbsp;
