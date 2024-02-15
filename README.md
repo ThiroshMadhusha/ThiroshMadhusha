@@ -5,30 +5,16 @@
 💻 Portfolio Link 
 ```
 🙋‍ https://thiroshmadhusha.github.io/portfolio/
-<p>
-<a href="https://github.com/ThiroshMadhusha/github-readme-cotribution-stats">
-    <img width="50%" high="50%" align="right" src="https://camo.githubusercontent.com/424c6fb20e90db09bbde85dc9054313032e04abef6ecc4a38ba02ff52dda9fb0/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f736974652f686f6d652f666f6f7465722d696c6c757374726174696f6e2e776562703f726573697a653d31323030253243363330" alt="flags" />
-</a>
-</p>
 <br/>
-
-
 ## 📫 My Stackoverflow Status
-
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=16248685&theme=dark" />
-
-
   <br/>
-
-
-![MasterHead](https://www.malabaronlinesolutions.com/img/2.gif)
-
 <!-- My About Section -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;I+am+Thirosh+Madhusha+Jayathunga;I'm+a+QA+Engeneer!;I'm+a+Web+Developer!;I'm+a+Web+Designer!&font=Fira%50Code&center=true&width=380&height=50">
 </p>
 <!-- <h1 align="center">Hi 👋, I'm Thirosh Madhusha</h1> -->
-<h3 align="left">I'm 3rd Year Undergraduate Student at the Sri Lanka Institute of Information Technology (SLIIT).</h3>
+<h3 align="center">I have completed my Bachelor's degree in Information Technology from the Sri Lanka Institute of Information Technology (SLIIT). During my academic journey, I gained practical industrial experience as a Quality Assurance Intern at Adventa Technologies Pty Ltd. This internship has given me valuable experience in ensuring quality assurance standards for both manual and automated testing. I am determined and willing to grow in Software Quality Assurance in the Information Technology field.</h3>
 <hr></hr>
 
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1Uf3E9XAlnwrxfbNjU3ByA?label=YouTube%20Subscribers!&style=social)](https://www.youtube.com/channel/UC1Uf3E9XAlnwrxfbNjU3ByA?sub_confirmation=1) -->
@@ -43,21 +29,20 @@
 
 - 🔭 I’m Currently Studing on <a href="https://www.sliit.lk/">***SLIIT***</a>
 
-- 🌱 I’m Currently Learning ***MERN Stack***
+- 🌱 I’m Currently Learning ***Quality Assurance Engineer***
 
-- 👯 I’m Looking for an ***Internship***
+- 👯 I’m Looking for an ***Associate QA Job***
 
-- 🤝 I’m Looking for Help With ***Project Group Mates***
+- 🤝 I’m Looking for Help With ***Client for Identify their Web Application Bugs***
 
 - 👨‍💻 All of My University Projects are Available in <a href="https://github.com/orgs/SLIIT-My-Projects-Works/repositories" >***My Project***</a>
 
-- 💬 Ask Me About ***MERN Stack***
+- 💬 Ask Me About ***Manual Testing and Automation Testing in Selenium WebDriver***
 
 - 📫 How to reach me ***thiroshmadhusha0520@gmail.com***
 
 <!-- - ⚡ Fun fact **Sometime, Playing Fun Games with My Friends** -->
-  
-  </p>
+</p>
 
 <br/>
 
@@ -90,7 +75,8 @@ Student Name: Jayathunga T.M.
 
 <br/>
 <hr></hr>
-<table>
+
+<!-- <table>
   <tr>
     <th>Programming Languages</th>
     <td> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -122,7 +108,7 @@ Student Name: Jayathunga T.M.
     <th>Softwares</th>
     <td><img src ="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src ="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=purple&labelColor=darkorchid"/> <img src ="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img src ="https://img.shields.io/badge/Insomnia-fuchsia?style=for-the-badge&logo=insomnia&logoColor=5849BE"/> <img src ="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/> <img src ="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/> <img src ="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=lime&labelColor=green"/> <img src ="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/> <img src ="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> </td> 
   </tr>
-</table>
+</table> -->
 
 
 <br/>
@@ -142,7 +128,6 @@ Student Name: Jayathunga T.M.
 </p>
 
 
-## 📊 -- **My GitHub Contribution Graph Status** --
 [![ThiroshMadhusha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiroshMadhusha&bg_color=141321&color=fd428d&line=9e4c98&point=f7d747&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- /*
