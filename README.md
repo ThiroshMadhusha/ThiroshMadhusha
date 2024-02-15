@@ -7,21 +7,34 @@
 🙋‍ https://thiroshmadhusha.github.io/portfolio/
 <br/>
 ## 📫 My Stackoverflow Status
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=16248685&theme=dark" />
-  <br/>
+<p>
+  <img width="200" align="left" src="https://github-readme-stackoverflow.vercel.app/?userID=16248685&theme=dark" />
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=ThiroshMadhusha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"></p>
+  <p align="right"> <img src="https://img.shields.io/github/followers/ThiroshMadhusha?label=Followers&style=social" alt="followers" /> </p>
+</p>
+
+<br/>
+
 <!-- My About Section -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;I+am+Thirosh+Madhusha+Jayathunga;I'm+a+QA+Engeneer!;I'm+a+Web+Developer!;I'm+a+Web+Designer!&font=Fira%50Code&center=true&width=380&height=50">
 </p>
 <!-- <h1 align="center">Hi 👋, I'm Thirosh Madhusha</h1> -->
-<h3 align="center">I have completed my Bachelor's degree in Information Technology from the Sri Lanka Institute of Information Technology (SLIIT). During my academic journey, I gained practical industrial experience as a Quality Assurance Intern at Adventa Technologies Pty Ltd. This internship has given me valuable experience in ensuring quality assurance standards for both manual and automated testing. I am determined and willing to grow in Software Quality Assurance in the Information Technology field.</h3>
-<hr></hr>
+<table style="border: none;">
+  <tr>
+    <td><img width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" alt="NUX_Octodex"></td>
+    <td>
+      <h3>About Me</h3>
+      <p>I have completed my Bachelor's degree in Information Technology from the Sri Lanka Institute of Information Technology (SLIIT). During my academic journey, I gained practical industrial experience as a Quality Assurance Intern at Adventa Technologies Pty Ltd. This internship has given me valuable experience in ensuring quality assurance standards for both manual and automated testing. I am determined and willing to grow in Software Quality Assurance in the Information Technology field.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC1Uf3E9XAlnwrxfbNjU3ByA?label=YouTube%20Subscribers!&style=social)](https://www.youtube.com/channel/UC1Uf3E9XAlnwrxfbNjU3ByA?sub_confirmation=1) -->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ThiroshMadhusha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
-</p><p align="right"> <img src="https://img.shields.io/github/followers/ThiroshMadhusha?label=Followers&style=social" alt="followers" /> </p>
-<br/>
+
 <p><img width="400" align="right" src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gif" />
   
 
@@ -37,7 +50,7 @@
 
 - 👨‍💻 All of My University Projects are Available in <a href="https://github.com/orgs/SLIIT-My-Projects-Works/repositories" >***My Project***</a>
 
-- 💬 Ask Me About ***Manual Testing and Automation Testing in Selenium WebDriver***
+- 💬 Ask Me About ***Manual Testing and Automation Testing in Selenium***
 
 - 📫 How to reach me ***thiroshmadhusha0520@gmail.com***
 
