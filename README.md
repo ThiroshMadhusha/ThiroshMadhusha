@@ -27,14 +27,14 @@
 <a href="https://twitter.com/thiroshmadhusha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thiroshmadhusha" height="50" width="60" /></a> 
 </p>
 
-<br/><br/>
+<br/>
 <!-- Badges with custom icons section -->
 <p align="center" width="100%">
 <a href="https://github.com/ThiroshMadhusha?tab=followers" target="_blank">
-  <img align="center" alt="Thirosh Madhusha | Profile Views" width="200px" src="https://komarev.com/ghpvc/?username=ThiroshMadhusha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img align="center" alt="Thirosh Madhusha | Profile Views" width="150px" src="https://komarev.com/ghpvc/?username=ThiroshMadhusha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ThiroshMadhusha?tab=followers" target="_blank">
-  <img align="center" alt="Thirosh Madhusha | followers" width="200px" src="https://img.shields.io/github/followers/ThiroshMadhusha?label=Followers&style=social" /> </a> &nbsp;&nbsp;
+  <img align="center" alt="Thirosh Madhusha | followers" width="150px" src="https://img.shields.io/github/followers/ThiroshMadhusha?label=Followers&style=social" /> </a> &nbsp;&nbsp;
 
 </p>
 <br/>
@@ -63,8 +63,6 @@ Student Name: Jayathunga T.M.
 
 [![ThiroshMadhusha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiroshMadhusha&bg_color=141321&color=fd428d&line=9e4c98&point=f7d747&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
 ## 🔥 -- **GitHub Streak Status** --
 
 <div align="center">
@@ -82,7 +80,7 @@ Student Name: Jayathunga T.M.
 <br><br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThiroshMadhusha&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+  <br><br><img src="https://github-profile-trophy.vercel.app/?username=ThiroshMadhusha&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br>
 </div>
 <br>
 
