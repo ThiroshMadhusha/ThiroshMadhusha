@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Thirosh Madhusha</h1>
+<h1 align="center">Hello 👋, I'm Thirosh Madhusha <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h1>
 <br>
 <!-- My About Section -->
 <p align="center">
@@ -7,10 +7,10 @@
 <br>
 <table style="border: none;">
   <tr>
-    <td><img width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" alt="NUX_Octodex"></td>
+    <td><img width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="250" alt="NUX_Octodex"></td>
     <td>
       <h3>About Me</h3>
-      <p>I have completed my Bachelor's degree in Information Technology from the Sri Lanka Institute of Information Technology (SLIIT). During my academic journey, I gained practical industrial experience as a Quality Assurance Intern at Adventa Technologies Pty Ltd. This internship has given me valuable experience in ensuring quality assurance standards for both manual and automated testing. I am determined and willing to grow in Software Quality Assurance in the Information Technology field.</p>
+      <p>I have completed my Bachelor's degree in Information Technology from the Sri Lanka Institute of Information Technology (SLIIT). During my academic journey, I gained practical industrial experience as a Quality Assurance Intern at Adventa Technologies Pty Ltd.           This internship has given me valuable experience in ensuring quality assurance standards for both manual and automated testing. I am determined and willing to grow in Software Quality Assurance in the Information Technology field.</p>
     </td>
   </tr>
 </table>
@@ -35,7 +35,8 @@
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ThiroshMadhusha?tab=followers" target="_blank">
   <img align="center" alt="Thirosh Madhusha | followers" width="150px" src="https://img.shields.io/github/followers/ThiroshMadhusha?label=Followers&style=social" /> </a> &nbsp;&nbsp;
-
+<a href="https://github.com/ThiroshMadhusha?tab=followers" target="_blank">
+    <img align="center" alt="Thirosh Madhusha | followers" width="150px" src="https://custom-icon-badges.herokuapp.com/github/stars/ThiroshMadhusha?color=e67e22&style=for-the-badge&labelColor=2c3e50&logo=star"/> </a> &nbsp;&nbsp;
 </p>
 <br/>
 <p align="center">
