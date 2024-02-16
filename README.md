@@ -57,16 +57,18 @@ Student Name: Jayathunga T.M.
 
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=16248685)
 </p>
-<br/>
+<br><br><br>
 
 ## ⚡ -- **Contributions Graph** --
 
 [![ThiroshMadhusha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiroshMadhusha&bg_color=141321&color=fd428d&line=9e4c98&point=f7d747&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+
 ## 🔥 -- **GitHub Streak Status** --
 
-<!-- GitHub Readme Streak Stats - https://github.com/ThiroshMadhusha/github-readme-streak-stats -->
+<div align="center">
+  <!-- GitHub Readme Streak Stats - https://github.com/ThiroshMadhusha/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/ThiroshMadhusha/github-readme-streak-stats">
     <img width="47%" align="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ThiroshMadhusha's streak" src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="GitHub status" />
@@ -76,35 +78,17 @@ Student Name: Jayathunga T.M.
     <img width="47%" align="right" title="🔥 Get streak stats for your profile at git.io/contribution-stats" alt="ThiroshMadhusha's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ThiroshMadhusha&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
-<br/>
-<br/>
-<br/>
+</div> <br>
+<br><br>
 
-## 🙋‍♂️ About Me
-
-- 🌱 I’m currently learning **BSc (Hons) in Information Technology
-  Specializing in Information Technology**
-
-- 👯 I’m looking to collaborate on **Open-Source Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://thiroshmadhusha.github.io/portfolio/)**
-
-- 📫 How to reach me **thiroshmadhusha0520@gmail.com**
-
-- ⚡ Fun fact **I play online video games**
-  <br/>
-  <br/>
-
-## 👋 Check My Portfolio 👋
-```
-💻 Portfolio Link 
-```
-
-🙋‍ https://thiroshmadhusha.github.io/portfolio/
-
-<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThiroshMadhusha&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+</div>
+<br>
 
 ## 💻 -- **GitHub Languages Status** --
+
+<div align="center">
 <!-- GitHub Readme languages Stats - https://github.com/ThiroshMadhusha/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/ThiroshMadhusha/github-readme-streak-stats">
@@ -113,9 +97,10 @@ Student Name: Jayathunga T.M.
   
   <a href="https://github.com/ThiroshMadhusha/github-readme-cotribution-stats">
     <img width="47%" align="right" src="https://1.bp.blogspot.com/-3hNEZcRLqk4/YETRXoPoI5I/AAAAAAAA47g/blH4r2qG3-8l-6cAzd1TnFPGHcyXxId5ACLcBGAsYHQ/s0/Flag_of_Sri_Lanka.gif&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="flags" />
-
   </a>
 </p>
+</div> <br>
+<br><br>
 
 ![git](https://user-images.githubusercontent.com/79472177/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg)
 
