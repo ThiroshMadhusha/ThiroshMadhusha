@@ -30,12 +30,11 @@
 <br/>
 <!-- Badges with custom icons section -->
 <p align="center" width="100%">
-<a href="https://github.com/ThiroshMadhusha?tab=followers" target="_blank">
-  <img align="center" alt="Thirosh Madhusha | Profile Views" width="150px" src="https://komarev.com/ghpvc/?username=ThiroshMadhusha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</a> &nbsp;&nbsp;
-<a href="https://github.com/ThiroshMadhusha?tab=followers" target="_blank">
-  <img align="center" alt="Thirosh Madhusha | followers" width="150px" src="https://img.shields.io/github/followers/ThiroshMadhusha?label=Followers&style=social" /> </a> &nbsp;&nbsp;
-<a href="https://github.com/ThiroshMadhusha?tab=followers" target="_blank">
+  <a href="https://github.com/ThiroshMadhusha?tab=followers" target="_blank">
+    <img align="center" alt="Thirosh Madhusha | Profile Views" width="150px" src="https://komarev.com/ghpvc/?username=ThiroshMadhusha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </a> &nbsp;&nbsp;
+  <a href="https://github.com/ThiroshMadhusha?tab=followers" target="_blank">
+    <img align="center" alt="Thirosh Madhusha | followers" width="150px" src="https://img.shields.io/github/followers/ThiroshMadhusha?label=Followers&style=social" /> </a> &nbsp;&nbsp;
+  <a href="https://github.com/ThiroshMadhusha?tab=followers" target="_blank">
     <img align="center" alt="Thirosh Madhusha | followers" width="150px" src="https://custom-icon-badges.herokuapp.com/github/stars/ThiroshMadhusha?color=e67e22&style=for-the-badge&labelColor=2c3e50&logo=star"/> </a> &nbsp;&nbsp;
 </p>
 <br/>
