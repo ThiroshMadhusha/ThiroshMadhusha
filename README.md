@@ -107,7 +107,7 @@ Student Name: Jayathunga T.M.
        <p>
       Skills : <br>
       Manual Testing | BUG Reporting <br>
-      API Testing | Jira <br>
+      API Testing | Jira | GitHub | GIT VCC <br>
       Test Case Writing | Test Plan Writing <br>
       Test Execution | Selenium Webdriver <br>
       Selenium IDE | Test CaseStudio | Jira <br>
