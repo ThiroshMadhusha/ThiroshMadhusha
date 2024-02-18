@@ -85,8 +85,9 @@ Student Name: Jayathunga T.M.
       </p>
     </td>
     <td>
-      <h3>Associate Software Quality Assurance Manual and Automation Tester </h3> <h4> <b>Adventa Technologies Pty Ltd</b></h4>
-      <i>June 2023 - February 2024</i> <br>
+      <h3>Associate Software Quality Assurance Manual and Automation Tester </h3> 
+      <h4> <b>Adventa Technologies Pty Ltd</b></h4>
+      <i>June 2023 - February 2024</i> <br><br>
       <p> 🔅 During my work at Adventa as a Quality Assurance Engineer, I engaged in diverse projects that enriched my skills in manual testing, API testing, and automation testing, solidifying my proficiency in ensuring the quality of various applications. 🌐🛠️💡<br>
 🤖 Experience in automation web application testing using Selenium WebDriver and TestNG in Eclipse. <br>
 🚀 Successfully automated testing processes, ensuring the quality of various applications. <br>
@@ -116,8 +117,9 @@ Student Name: Jayathunga T.M.
       </p>
     </td>
     <td>
-      <h3>Intern Software Quality Assurance Engineer </h3>  <h4> <b>Adventa Technologies Pty Ltd</b></h4>
-      <i>December 2022 - May 2023</i> <br>
+      <h3>Intern Software Quality Assurance Engineer </h3>  
+      <h4> <b>Adventa Technologies Pty Ltd</b></h4>
+      <i>December 2022 - May 2023</i> <br><br>
       <p>
         🔅 During my internship at Adventa as a Quality Assurance Engineer, I engaged in diverse projects that enriched my skills in manual testing, API testing, and automation testing, solidifying my proficiency in ensuring the quality of various applications. <br>
 
