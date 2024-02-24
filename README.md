@@ -74,6 +74,30 @@ Student Name: Jayathunga T.M.
       <img width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="250" alt="NUX_Octodex">
       <p>
       Skills : <br>
+      Manual Testing | BUG Reporting <br>
+      Test Scenarios Design | Test Cases Design <br>
+      Test Execution | Smoke Testing <br>
+      Re Testing | Regression Testing <br>
+      UI/UX Testing | Functional Testing <br>
+      </p>
+    </td>
+    <td>
+      <h3>Manual QA Tester</h3> 
+      <h4> <b>L.D.R.S Group Ltd</b></h4>
+      <i>January 2024 - March 2024</i> <br><br>
+      <p> 🔍 As a Manual QA Tester at L.D.R.S Group Ltd, I meticulously designed comprehensive test scenarios and crafted precise test cases to ensure thorough coverage of our software's functionality. 📋 During test execution, I conducted rigorous smoke testing to swiftly identify any critical issues, enabling timely bug reporting for swift resolution. 🐞 Upon bug fixes, I diligently performed retesting to validate the corrections, followed by meticulous regression testing to safeguard against unintended side effects. 🔄 Additionally, I meticulously evaluated the user interface and experience, ensuring seamless interaction through UI/UX testing, while also conducting thorough functional testing to guarantee the right functionality. My commitment to quality assurance and attention to detail played a pivotal role in enhancing the reliability and user satisfaction of our software products. My dedication and proficiency contributed to the enhancement of software quality and user satisfaction during my tenure at L.D.R.S Group Ltd.
+      </p>
+    </td>
+  </tr>
+</table>
+<br/>
+  
+  <table style="border: none;">
+  <tr>
+    <td>
+      <img width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="250" alt="NUX_Octodex">
+      <p>
+      Skills : <br>
       Manual Testing | Automation Testing <br>
       API Testing | BUG Reporting <br>
       Test Case Writing | Test Plan Writing <br>
@@ -87,7 +111,7 @@ Student Name: Jayathunga T.M.
     <td>
       <h3>Associate Software Quality Assurance Manual and Automation Tester </h3> 
       <h4> <b>Adventa Technologies Pty Ltd</b></h4>
-      <i>September 2023 - February 2024</i> <br><br>
+      <i>September 2023 - Ja 2024</i> <br><br>
       <p> 🔅 During my work at Adventa as a Quality Assurance Engineer, I engaged in diverse projects that enriched my skills in manual testing, API testing, and automation testing, solidifying my proficiency in ensuring the quality of various applications. 🌐🛠️💡<br>
 🤖 Experience in automation web application testing using Selenium WebDriver and TestNG in Eclipse. <br>
 🚀 Successfully automated testing processes, ensuring the quality of various applications. <br>
