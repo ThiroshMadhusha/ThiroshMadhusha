@@ -78,7 +78,7 @@ Student Name: Jayathunga T.M.
       Test Scenarios Design | Test Cases Design <br>
       Test Execution | Smoke Testing <br>
       Re Testing | Regression Testing <br>
-      UI/UX Testing | Functional Testing <br>
+      UI Testing | Functional Testing <br>
       </p>
     </td>
     <td>
