@@ -85,7 +85,7 @@ Student Name: Jayathunga T.M.
       <h3>Manual QA Tester</h3> 
       <h4> <b>L.D.R.S Group Ltd</b></h4>
       <i>January 2024 - March 2024</i> <br><br>
-      <p> 🔍 As a Manual QA Tester at L.D.R.S Group Ltd, I meticulously designed comprehensive test scenarios and crafted precise test cases to ensure thorough coverage of our software's functionality. 📋 Throughout the two-month contract period, I conducted rigorous smoke testing 🌬️ to identify any critical issues during test execution swiftly.🐞 This enabled me to report bugs and defects on time to ensure swift resolution.🐛 Each discovered bug was promptly reported, allowing for swift resolution and continuous improvement. Whenever bugs were fixed, I diligently performed retesting to validate the corrections. I then conducted meticulous regression testing to safeguard against any unintended side effects. 🔄 Additionally, I meticulously evaluated the user interface and experience, ensuring seamless interaction through 🖥️ UI Testing, while also conducting thorough 🧪 functional testing to guarantee the right functionality. 🛠️ My commitment to quality assurance and attention to detail played a pivotal role in enhancing our software products' reliability and user satisfaction. My dedication and proficiency contributed to the enhancement of software quality and user satisfaction during my tenure at L.D.R.S Group Ltd.
+      <p> 🔍 As a Manual QA Tester at L.D.R.S Group Ltd, I meticulously designed comprehensive test scenarios and crafted precise test cases to ensure thorough coverage of our software's functionality. 📋 Throughout the two-month contract period, I conducted rigorous smoke testing 🌬️ to identify any critical issues during test execution. 🐞 This enabled me to report bugs and defects on time to ensure swift resolution.🐛 Each discovered bug was promptly reported, allowing for swift resolution and continuous improvement. Whenever bugs were fixed, I diligently performed retesting to validate the corrections.🔄 Additionally, I ensure seamless interaction through 🖥️ UI Testing, while also conducting thorough 🧪 functional testing to guarantee the right functionality. 🛠️ My commitment to quality assurance and attention to detail played a pivotal role in enhancing our software products' reliability and user satisfaction. My dedication and proficiency contributed to the enhancement of software quality and user satisfaction during my tenure at L.D.R.S Group Ltd.
       </p>
     </td>
   </tr>
@@ -111,7 +111,7 @@ Student Name: Jayathunga T.M.
     <td>
       <h3>Associate Software Quality Assurance Manual and Automation Tester </h3> 
       <h4> <b>Adventa Technologies Pty Ltd</b></h4>
-      <i>September 2023 - Ja 2024</i> <br><br>
+      <i>September 2023 - January 2024</i> <br><br>
       <p> 🔅 During my work at Adventa as a Quality Assurance Engineer, I engaged in diverse projects that enriched my skills in manual testing, API testing, and automation testing, solidifying my proficiency in ensuring the quality of various applications. 🌐🛠️💡<br>
 🤖 Experience in automation web application testing using Selenium WebDriver and TestNG in Eclipse. <br>
 🚀 Successfully automated testing processes, ensuring the quality of various applications. <br>
