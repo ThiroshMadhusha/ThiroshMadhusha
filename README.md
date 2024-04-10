@@ -92,74 +92,7 @@ Student Name: Jayathunga T.M.
 </table>
 <br/>
   
-  <table style="border: none;">
-  <tr>
-    <td>
-      <img width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="250" alt="NUX_Octodex">
-      <p>
-      Skills : <br>
-      Manual Testing | Automation Testing <br>
-      API Testing | BUG Reporting <br>
-      Test Case Writing | Test Plan Writing <br>
-      Test Execution | Selenium Webdriver <br>
-      Jenkins CI/CD | GitHub | GIT VCC  <br>
-      Smoke Testing | Regression Testing <br>
-      UI/UX Testing | Functional Testing <br>
-      Sanity Testing | Jira <br>
-      </p>
-    </td>
-    <td>
-      <h3>Associate Software Quality Assurance Manual and Automation Tester </h3> 
-      <h4> <b>Adventa Technologies Pty Ltd</b></h4>
-      <i>August 2023 - January 2024</i> <br><br>
-      <p> 🔅 During my work at Adventa as a Quality Assurance Engineer, I engaged in diverse projects that enriched my skills in manual testing, API testing, and automation testing, solidifying my proficiency in ensuring the quality of various applications. 🌐🛠️💡<br>
-🤖 Experience in automation web application testing using Selenium WebDriver and TestNG in Eclipse. <br>
-🚀 Successfully automated testing processes, ensuring the quality of various applications. <br>
-🔬 Played a pivotal role in ensuring impeccable software product quality through meticulous manual testing and efficient test automation strategies. <br>
-🤝 Collaborated with a talented team to develop robust test plans, execute comprehensive test cases, and automate critical test scenarios. <br>
-💡 Resulted in significant time and cost savings for the organization. <br>
-🔧 Refined quality assurance and test automation skills through experience at Adventa Technology Pty Ltd. <br>
-      </p>
-    </td>
-  </tr>
-</table>
-<br/>
 
-<table style="border: none;">
-  <tr>
-    <td>
-      <img width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="250" alt="NUX_Octodex">
-       <p>
-      Skills : <br>
-      Manual Testing | BUG Reporting <br>
-      API Testing | Jira | GitHub | GIT VCC <br>
-      Test Case Writing | Test Plan Writing <br>
-      Test Execution | Selenium Webdriver <br>
-      Selenium IDE | Test CaseStudio | Jira <br>
-      Smoke Testing | Regression Testing <br>
-      UI/UX Testing | Functional Testing <br>
-      </p>
-    </td>
-    <td>
-      <h3>Intern Software Quality Assurance Engineer </h3>  
-      <h4> <b>Adventa Technologies Pty Ltd</b></h4>
-      <i>February 2023 - July 2023</i> <br><br>
-      <p>
-        🔅 During my internship at Adventa as a Quality Assurance Engineer, I engaged in diverse projects that enriched my skills in manual testing, API testing, and automation testing, solidifying my proficiency in ensuring the quality of various applications. <br>
-
-🕵️‍♂️ Manual Testing for Web Applications and Mobile Applications <br>
-🤖 Automation Testing using Selenium IDE and Test Case Studio <br>
-🔍 Hands-on experience in Bug Tracking using Jira <br>
-📝 Requirement Analysis, Test design planning, and Test Data Creation <br>
-✏️ Writing Test Cases and Executing Test Scenarios <br>
-🔄 Experience working in agile teams (Scrums) <br>
-🤝 Discussing with developers about functional requirements and issues resolved in test areas <br>
-📞 Attending Daily Status calls and Meetings <br>
-⏱️ Worked under tight deadlines and completed all project tasks ahead of schedule <br>
-</p>
-    </td>
-  </tr>
-</table>
 </div>
 
 ## 🔥 -- **GitHub Streak Status** --
