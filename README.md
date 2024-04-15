@@ -12,7 +12,8 @@
     </td>
     <td>
       <h3>About Me</h3>
-      <p>I have completed my Bachelor's degree in Information Technology from the Sri Lanka Institute of Information Technology (SLIIT). During my academic journey, I gained practical industrial experience as a Quality Assurance Intern at Adventa Technologies Pty Ltd. This internship has given me valuable experience in ensuring quality assurance standards for both manual and automated testing. I am determined and willing to grow in Software Quality Assurance in the Information Technology field.</p>
+      <p>I am pleased to inform you that I have obtained a Bachelor's degree in Information Technology from the Sri Lanka Institute of Information Technology (SLIIT). During my academic journey, I have gained practical experience in quality assurance methodologies used in the industry. I am knowledgeable in both manual and automated testing, and I am highly motivated to further develop my skills in the field of Software Quality Assurance within the Information Technology industry.
+</p>
     </td>
   </tr>
 </table>
