@@ -53,6 +53,32 @@ Student Name: Jayathunga T.M.
 </p>
 <br/>
 
+## 🕵️‍♂️ -- **My Work Experience** --
+<div>
+  <table style="border: none;">
+  <tr>
+    <td>
+      <img width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="250" alt="NUX_Octodex">
+      <p>
+      Skills : <br>
+      Manual Testing | BUG Reporting <br>
+      Test Scenarios Design | Test Cases Design <br>
+      Test Execution | Smoke Testing <br>
+      Re Testing | Regression Testing <br>
+      UI Testing | Functional Testing <br>
+      </p>
+    </td>
+    <td>
+      <h3>Manual QA Tester</h3> 
+      <h4> <b>L.D.R.S Group Ltd</b></h4>
+      <i>January 2024 - March 2024</i> <br><br>
+      <p> 🚀 Just embarked on my journey as a QA 🔍 Manual and Automation Tester at DLAD Software Solution (Pvt) Ltd! 🚀 Responsibilities include conducting Smoke Testing 🔍 for initial stability checks and crafting comprehensive Test Plans and Strategies, collaborating closely with the development team to ensure alignment with project objectives and timelines. Excited to dive into Regression and Sanity Testing to uphold the integrity of our software products. Utilizing GitHub's powerful issue tracking system 🛠️ to streamline bug identification and resolution processes, fostering efficient collaboration with the team. Ready to contribute to maintaining the highest standards of software quality within DLAD! 💻🔍
+      </p>
+    </td>
+  </tr>
+</table>
+<br/>
+</div>
 ## 📫 My Stackoverflow Status
  <p> 
    <img width="200" align="left" src="https://github-readme-stackoverflow.vercel.app/?userID=16248685&theme=dark" />
