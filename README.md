@@ -66,34 +66,7 @@ Student Name: Jayathunga T.M.
 [![ThiroshMadhusha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiroshMadhusha&bg_color=141321&color=fd428d&line=9e4c98&point=f7d747&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
-## 🕵️‍♂️ -- **My Work Experience** --
-<div>
-  <table style="border: none;">
-  <tr>
-    <td>
-      <img width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="250" alt="NUX_Octodex">
-      <p>
-      Skills : <br>
-      Manual Testing | BUG Reporting <br>
-      Test Scenarios Design | Test Cases Design <br>
-      Test Execution | Smoke Testing <br>
-      Re Testing | Regression Testing <br>
-      UI Testing | Functional Testing <br>
-      </p>
-    </td>
-    <td>
-      <h3>Manual QA Tester</h3> 
-      <h4> <b>L.D.R.S Group Ltd</b></h4>
-      <i>January 2024 - March 2024</i> <br><br>
-      <p> 🔍 As a Manual QA Tester at L.D.R.S Group Ltd, I meticulously designed comprehensive test scenarios and crafted precise test cases to ensure thorough coverage of our software's functionality. 📋 Throughout the two-month contract period, I conducted rigorous smoke testing 🌬️ to identify any critical issues during test execution. 🐞 This enabled me to report bugs and defects on time to ensure swift resolution.🐛 Each discovered bug was promptly reported, allowing for swift resolution and continuous improvement. Whenever bugs were fixed, I diligently performed retesting to validate the corrections.🔄 Additionally, I ensure seamless interaction through 🖥️ UI Testing, while also conducting thorough 🧪 functional testing to guarantee the right functionality. 🛠️ My commitment to quality assurance and attention to detail played a pivotal role in enhancing our software products' reliability and user satisfaction. My dedication and proficiency contributed to the enhancement of software quality and user satisfaction during my tenure at L.D.R.S Group Ltd.
-      </p>
-    </td>
-  </tr>
-</table>
-<br/>
-  
 
-</div>
 
 ## 🔥 -- **GitHub Streak Status** --
 
