@@ -1,12 +1,15 @@
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/ThiroshMadhusha.svg)](https://user-badge.committers.top/sri_lanka_private/ThiroshMadhusha)
 
+<h1 align="center">Hello 👋 </h1>
 
-<h1 align="center">Hello 👋, I'm Thirosh Madhusha <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h1>
+  ![header](https://capsule-render.vercel.app/api?type=venom&height=200&align=center&color=gradient&text=I'm%20Thirosh%20Madhusha)
+
+<!-- <h1 align="center">Hello 👋, I'm Thirosh Madhusha <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h1> -->
 <br>
 
 <!-- My About Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;I'm+a+QA+Engineer!;I'm+a+Manual+Tester!;I'm+a+Automation+Tester!;I'm+a+Bug+Hunter!;I'm+a+API+Tester!&font=Fira%50Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;I'm+a+QA+Engineer!;I'm+a+Manual+Tester!;I'm+a+Automation+Tester!;I'm+a+Bug+Hunter!;I'm+a+API+Tester!&font=Fira%50Code&center=true&width=380&height=50"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
 </p>
 <br>
 <table style="border: none;">
@@ -16,7 +19,7 @@
     </td>
     <td>
       <h3>About Me</h3>
-      <p>I am pleased to inform you that I have obtained a Bachelor's degree in Information Technology from the Sri Lanka Institute of Information Technology (SLIIT). During my academic journey, I have gained practical experience in quality assurance methodologies used in the industry. I am knowledgeable in both manual and automated testing, and I am highly motivated to further develop my skills in the field of Software Quality Assurance within the Information Technology industry.
+      <p>I am pleased to inform you that I have obtained a Bachelor's degree in Information Technology from the Sri Lanka Institute of Information Technology (SLIIT). During my academic journey, I have gained practical experience in quality assurance methodologies used in the industry. I am knowledgeable in both manual and automated testing, and I am highly motivated to develop my skills further in software quality assurance within the information technology industry.
 </p>
     </td>
   </tr>
