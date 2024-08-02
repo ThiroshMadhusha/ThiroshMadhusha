@@ -1,5 +1,9 @@
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/ThiroshMadhusha.svg)](https://user-badge.committers.top/sri_lanka_private/ThiroshMadhusha)
+
+
 <h1 align="center">Hello 👋, I'm Thirosh Madhusha <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h1>
 <br>
+
 <!-- My About Section -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;I'm+a+QA+Engineer!;I'm+a+Manual+Tester!;I'm+a+Automation+Tester!;I'm+a+Bug+Hunter!;I'm+a+API+Tester!&font=Fira%50Code&center=true&width=380&height=50">
