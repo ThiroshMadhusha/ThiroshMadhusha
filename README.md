@@ -119,8 +119,8 @@ Student Name: Jayathunga T.M.
 
 ## 🔥 -- **GitHub Streak Status** --
 
+<!--
 <div align="center">
-  <!-- GitHub Readme Streak Stats - https://github.com/ThiroshMadhusha/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/ThiroshMadhusha/github-readme-streak-stats">
     <img width="47%" align="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ThiroshMadhusha's streak" src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="GitHub status" />
@@ -130,7 +130,34 @@ Student Name: Jayathunga T.M.
     <img width="47%" align="right" title="🔥 Get streak stats for your profile at git.io/contribution-stats" alt="ThiroshMadhusha's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ThiroshMadhusha&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
-</div> <br>
+</div> 
+-->
+<table border="0">
+  <tr>    
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&&show_icons=true&theme=gruvbox&hide_border=true"/>
+    </td>
+    <td>
+       <div>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiroshMadhusha&theme=tokyonight&hide_border=true">
+      </div>
+    </td>  
+  </tr>
+  
+  <tr>
+     <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiroshMadhusha&theme=github_dark&hide_border=true"/>
+    </td>
+  </tr>
+  <tr>
+      <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiroshMadhusha&theme=gruvbox&hide_border=true"/>
+    </td>
+      <td align = "center">      
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiroshMadhusha&theme=tokyonight&hide_border=true"/>
+    </td> 
+  </tr>
+</table> 
 <br><br>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
