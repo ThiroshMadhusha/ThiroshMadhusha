@@ -1,3 +1,4 @@
+
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/ThiroshMadhusha.svg)](https://user-badge.committers.top/sri_lanka_private/ThiroshMadhusha)
 
 <h1 align="center">Hello 👋 </h1>
@@ -11,6 +12,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;I'm+a+QA+Engineer!;I'm+a+Manual+Tester!;I'm+a+Automation+Tester!;I'm+a+Bug+Hunter!;I'm+a+API+Tester!&font=Fira%50Code&center=true&width=380&height=50"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
 </p>
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
+
 <br>
 <table style="border: none;">
   <tr>
@@ -25,6 +29,8 @@
   </tr>
 </table>
 <br/>
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
 ## 🙋‍♂️ -- **Connect With Me** --
 
@@ -88,6 +94,8 @@ Student Name: Jayathunga T.M.
 </div>
 -->
 
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
+
 ## 📫 My Stackoverflow Status
 
  <p> 
@@ -98,11 +106,15 @@ Student Name: Jayathunga T.M.
 </p>
 <br><br><br>
 
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
+
 ## ⚡ -- **Contributions Graph** --
 
 [![ThiroshMadhusha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ThiroshMadhusha&bg_color=141321&color=fd428d&line=9e4c98&point=f7d747&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
 
 ## 🔥 -- **GitHub Streak Status** --
@@ -121,10 +133,14 @@ Student Name: Jayathunga T.M.
 </div> <br>
 <br><br>
 
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
+
 <div align="center">
   <br><br><img src="https://github-profile-trophy.vercel.app/?username=ThiroshMadhusha&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br>
 </div>
 <br>
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
 ## 💻 -- **GitHub Languages Status** --
 
@@ -144,6 +160,8 @@ Student Name: Jayathunga T.M.
 
 
 <br/>
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
 ![git](https://user-images.githubusercontent.com/79472177/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg)
 
