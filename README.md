@@ -139,8 +139,11 @@ Student Name: Jayathunga T.M.
 </div> 
 -->
 <table border="0">
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=radical)
+-->
   <tr>    
-    <td>
+    <td>      
         <img src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&&show_icons=true&theme=gruvbox&hide_border=true"/>
     </td>
     <td>
@@ -167,6 +170,15 @@ Student Name: Jayathunga T.M.
 <br><br>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@ThiroshMadhusha.github.readme" alt="Visitor Count">
+</p>
+
+</br>
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
+
 
 <div align="center">
   <br><br><img src="https://github-profile-trophy.vercel.app/?username=ThiroshMadhusha&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br>
@@ -221,11 +233,10 @@ Student Name: Jayathunga T.M.
 <p align="center"> 
   
 ```
-*If You liked My Profile, You Can Star ⭐ the Repository; If You Want To Use This Template, You Can Fork This and Use It.*
+*If You liked My Profile, You Can Star ⭐ the Repository): If You Want To Use This Template, You Can Fork This and Use It.*
 ```
 </p>
   
 <p align="center"> 
   Thanks for Visiting...! :heart:
 </p>
-
