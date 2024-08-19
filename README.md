@@ -199,7 +199,12 @@ Student Name: Jayathunga T.M.
 
 ![git](https://user-images.githubusercontent.com/79472177/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg)
 
+<br />
+
 <p align="center"> 
   Visitors Count<br>
   <img src="https://profile-counter.glitch.me/ThiroshMadhusha/count.svg" />
+</p>
+<p align="center"> 
+  Thanks for Visiting...! :heart:
 </p>
