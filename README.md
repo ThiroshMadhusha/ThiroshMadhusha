@@ -46,13 +46,16 @@
 <!-- Badges with custom icons section -->
 <p align="center" width="100%">
   <a href="https://github.com/ThiroshMadhusha?tab=ProfileViews" target="_blank">
-    <img align="center" alt="Thirosh Madhusha | Profile Views" width="150px" src="https://komarev.com/ghpvc/?username=ThiroshMadhusha&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </a> &nbsp;&nbsp;
+    <img align="center" alt="Thirosh Madhusha | Profile Views" width="150px" height="30px" src="https://komarev.com/ghpvc/?username=ThiroshMadhusha&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </a> &nbsp;&nbsp;
   <a href="https://github.com/ThiroshMadhusha?tab=followers" target="_blank">
-    <img align="center" alt="Thirosh Madhusha | followers" width="150px" src="https://img.shields.io/github/followers/ThiroshMadhusha?label=Followers&style=social" /> </a> &nbsp;&nbsp;
-  <a href="https://github.com/ThiroshMadhusha?tab=Stars" target="_blank">
-    <img align="center" alt="Thirosh Madhusha | Stars" width="140px" src="https://custom-icon-badges.herokuapp.com/github/stars/ThiroshMadhusha?color=e67e22&style=for-the-badge&labelColor=2c3e50&logo=star"/> </a> &nbsp;&nbsp;
+    <img align="center" alt="Thirosh Madhusha | followers" width="150px" height="30px" src="https://img.shields.io/github/followers/ThiroshMadhusha?label=Followers&style=social" /> </a> &nbsp;&nbsp;
+<!--   <a href="https://github.com/ThiroshMadhusha?tab=Stars" target="_blank">
+    <img align="center" alt="Thirosh Madhusha | Stars" width="140px" src="https://custom-icon-badges.herokuapp.com/github/stars/ThiroshMadhusha?color=e67e22&style=for-the-badge&labelColor=2c3e50&logo=star"/> </a> &nbsp;&nbsp; -->
   <a href="https://stackoverflow.com/users/16248685/thirosh-madhusha">
-    <img align="center" alt="Thirosh Madhusha | Stack Exchange reputation" width="150px" src="https://img.shields.io/stackexchange/stackoverflow/r/16248685?color=orange&label=Reputation&logo=stackoverflow"> </a> &nbsp;&nbsp;
+    <img align="center" alt="Thirosh Madhusha | Stack Exchange reputation" width="150px" height="30px" src="https://img.shields.io/stackexchange/stackoverflow/r/16248685?color=orange&label=Reputation&logo=stackoverflow"> </a> &nbsp;&nbsp
+    <a href="https://github.com/ThiroshMadhusha?tab=stars" target="_blank">
+    <img align="center" alt="Thirosh Madhusha | followers" width="150px" height="30px" src="https://img.shields.io/github/stars/ThiroshMadhusha?label=Stars&style=social" /> </a> &nbsp;&nbsp;
+
 </p>
 <br/>
 <p align="center">
