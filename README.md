@@ -171,9 +171,13 @@ Student Name: Jayathunga T.M.
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@ThiroshMadhusha.github.readme" alt="Visitor Count">
-</p>
+### Profile Views
+
+**Counting of visitors to this page started on August 20, 2024.**
+
+![](https://count.getloli.com/get/@ThiroshMadhusha.github.readme)
+</br>
+
 
 </br>
 
