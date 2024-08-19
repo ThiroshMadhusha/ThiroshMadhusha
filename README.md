@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hello 👋 </h1>
 
   ![header](https://capsule-render.vercel.app/api?type=venom&height=200&align=center&color=gradient&text=I'm%20Thirosh%20Madhusha)
