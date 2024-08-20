@@ -1,3 +1,8 @@
+<!-- ## GitHub Activity
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=radical)
+-->
 
 <h1 align="center">Hello 👋 </h1>
 
@@ -236,9 +241,12 @@ Student Name: Jayathunga T.M.
 
 
 <p align="center"> 
+
   
 ```
-*If You liked My Profile, You Can Star ⭐ the Repository): If You Want To Use This Template, You Can Fork This and Use It.*
+
+If You liked My Profile, You Can Star ⭐ the Repository): If You Want To Use This Template, You Can Fork This and Use It.
+
 ```
 </p>
   
