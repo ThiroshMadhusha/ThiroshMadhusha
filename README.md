@@ -1,4 +1,5 @@
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/ThiroshMadhusha.svg)](https://user-badge.committers.top/sri_lanka_private/ThiroshMadhusha)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/USERNAME.svg)]
 
 <!-- ## GitHub Activity
 
