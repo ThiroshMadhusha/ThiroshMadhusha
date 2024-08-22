@@ -1,3 +1,5 @@
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/ThiroshMadhusha.svg)](https://user-badge.committers.top/sri_lanka_private/ThiroshMadhusha)
+
 <!-- ## GitHub Activity
 
 
@@ -73,7 +75,6 @@ Student Name: Jayathunga T.M.
 
 </p>
 
-<!-- [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/ThiroshMadhusha.svg)](https://user-badge.committers.top/sri_lanka_private/ThiroshMadhusha) -->
 
 <br/>
 <!--
