@@ -184,8 +184,11 @@ Student Name: Jayathunga T.M.
 
 </br>
 
+<a href="https://github.com/ThiroshMadhusha/github-readme-streak-stats">
+  
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/ThiroshMadhusha.svg)](https://user-badge.committers.top/sri_lanka_private/ThiroshMadhusha)
 
+</a>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
