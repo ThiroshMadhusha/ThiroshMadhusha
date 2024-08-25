@@ -160,7 +160,7 @@ Student Name: Jayathunga T.M.
   
   <tr>
      <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiroshMadhusha&theme=github_dark&hide_border=true"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiroshMadhusha&theme=2077&hide_border=true"/>
     </td>
   </tr>
   <tr>
