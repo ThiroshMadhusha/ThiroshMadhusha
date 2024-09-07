@@ -1,6 +1,7 @@
-![ThiroshMadhusha's Stats](https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage)
 
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiroshMadhusha&theme=tokyonight&hide_border=true"/>
+<!-- ![ThiroshMadhusha's Stats](https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage&include_all_commits=true&org=dladio)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiroshMadhusha&theme=tokyonight&hide_border=true"/>
 
 ![ThiroshMadhusha's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiroshMadhusha&theme=tokyonight&hide_border=true&count_private=true&show=prs_merged_percentage&include_all_commits=true&orgs=dladio)
 
@@ -180,7 +181,8 @@ Student Name: Jayathunga T.M.
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiroshMadhusha&theme=gruvbox&hide_border=true"/>
     </td>
       <td align = "center">      
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiroshMadhusha&theme=tokyonight&hide_border=true"/>
+<!--       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiroshMadhusha&theme=tokyonight&hide_border=true"/> -->
+        <img src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage&org=dladio"/>
     </td> 
   </tr>
 </table> 
