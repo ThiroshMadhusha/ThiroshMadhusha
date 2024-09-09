@@ -1,5 +1,6 @@
-
-<!-- ![ThiroshMadhusha's Stats](https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage&include_all_commits=true&org=dladio)
+<!--  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ThiroshMadhusha?cardType=level-alternate&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
+ 
+![ThiroshMadhusha's Stats](https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage&include_all_commits=true&org=dladio)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiroshMadhusha&theme=tokyonight&hide_border=true"/>
 
@@ -178,11 +179,18 @@ Student Name: Jayathunga T.M.
   </tr>
   <tr>
       <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiroshMadhusha&theme=gruvbox&hide_border=true"/>
+        <img src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiroshMadhusha&theme=gruvbox&hide_border=true"/>
     </td>
       <td align = "center">      
-<!--       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiroshMadhusha&theme=tokyonight&hide_border=true"/> -->
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ThiroshMadhusha?cardType=level-alternate&theme=tokyonight&preferLogin=true"/>
+    </td> 
+  </tr>
+   <tr>
+      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage&org=dladio"/>
+    </td>
+      <td align = "center">      
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThiroshMadhusha&theme=ocean_dark"/>
     </td> 
   </tr>
 </table> 
