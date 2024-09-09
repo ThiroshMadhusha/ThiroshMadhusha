@@ -214,6 +214,7 @@ Student Name: Jayathunga T.M.
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
+<!-- <img src="https://github-profile-trophy.vercel.app?username=ThiroshMadhusha&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  /> -->
 
 <div align="center">
   <br><br><img src="https://github-profile-trophy.vercel.app/?username=ThiroshMadhusha&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br>
