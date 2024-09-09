@@ -161,11 +161,11 @@ Student Name: Jayathunga T.M.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=radical)
 -->
   <tr>    
-    <td> 
+    <td align="center"> 
       <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ThiroshMadhusha&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage&include_all_commits=true&orgs=dladio" />
 <!--         <img src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&&show_icons=true&theme=gruvbox&hide_border=true"/>
     </td> -->
-    <td>
+    <td align="center">
        <div>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiroshMadhusha&theme=tokyonight&hide_border=true">
       </div>
