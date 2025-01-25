@@ -261,7 +261,7 @@ Student Name: Jayathunga T.M.
       </p>
     </td>
     <td>
-      <h3>Manual QA Tester</h3>  
+      <h3>Manual QA Tester (Upwork - Freelancer - Contract) </h3>  
       <h4><b>L.D.R.S Group Ltd</b></h4>
       <i>January 2024 - March 2024</i> <br><br>
       <p>
