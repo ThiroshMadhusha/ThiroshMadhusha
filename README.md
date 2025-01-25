@@ -90,155 +90,6 @@ Student Name: Jayathunga T.M.
 
 <br/>
 
-## 🕵️‍♂️ -- **My Work Experience** --
-<div>
-
-<table style="border: none;">
-  <tr>
-    <td>
-      <img width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="250" alt="QA Tester">
-      <p>
-      **Skills :** <br>
-      Manual Testing | Automation Testing | Selenium WebDriver 
-      TestNG Framework | CI/CD Integration (Jenkins) 
-      Page Object Model | BrowserStack | API Testing (Postman) 
-      Test Scenario Design | Test Case Writing | Test Execution 
-      Smoke Testing | Regression Testing | Sanity Testing 
-      Functional & Non-Functional Testing | UI/UX Testing
-      Bug Tracking (GitHub) | X-Mind Mapping Tool 
-      Agile Workflows | Requirement Analysis | Cross-Browser Testing 
-      </p>
-    </td>
-    <td>
-      <h3>Manual & Automation QA Tester</h3>  
-      <h4><b>DLAD Software Solution (Pvt) Ltd</b></h4>
-      <i>April 2024 - Present</i> <br><br>
-      <p>
-        🔍 As a **Manual & Automation QA Tester** at DLAD Software Solution, I utilized my expertise to ensure the delivery of high-quality web applications by combining manual and automated testing techniques. My contributions played a vital role in optimizing application performance and reliability. <br><br>
-        📝 Designed comprehensive **test scenarios** and developed precise **test cases** to ensure full test coverage.  
-        🤖 Conducted **automation testing** using **Selenium WebDriver** and implemented the **TestNG Framework** with the **Page Object Model (POM)**.  
-        🔄 Integrated **CI/CD pipelines** via **Jenkins**, automating test execution and generating detailed reports.  
-        🗃️ Developed **data-driven testing frameworks** using TestNG with parameterized inputs for increased efficiency.  
-        📋 Conducted **requirement analysis**, created test data, and planned test scenarios for various projects.  
-        🌐 Performed **cross-browser compatibility testing** and optimized scripts for mobile responsiveness using **BrowserStack**.  
-        🐛 Created bug reports and tracked issues using the **GitHub Projects Issue Board**, ensuring swift resolutions.  
-        🧪 Conducted diverse testing types, including **smoke, regression, sanity, UI/UX, functional, and non-functional testing**.  
-        📍 Used **X-Mind Mapping Tools** for efficient test case analysis and documentation.  
-        🔍 Performed **API testing** with **Postman**, verifying endpoints and ensuring seamless API functionality.  
-        🤝 Collaborated with developers to discuss functional requirements and resolve testing issues.  
-        📞 Actively participated in **SCRUM and daily standup meetings**, contributing to agile workflows.  
-        ⏱️ Delivered tasks under tight deadlines, maintaining exceptional quality and completing projects ahead of schedule.  
-      </p>
-    </td>
-  </tr>
-</table>
-
-
-<table style="border: none;">
-  <tr>
-    <td>
-      <img width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="250" alt="Manual QA Tester">
-      <p>
-      **Skills :** <br>
-      Manual Testing | Bug Reporting 
-      Test Scenarios Design | Test Cases Design 
-      Test Execution | Smoke Testing 
-      Retesting | Regression Testing 
-      UI Testing | Functional Testing 
-      Agile Methodology | Collaboration with Developers 
-      </p>
-    </td>
-    <td>
-      <h3>Manual QA Tester</h3>  
-      <h4><b>L.D.R.S Group Ltd</b></h4>
-      <i>January 2024 - March 2024</i> <br><br>
-      <p>
-        🔍 As a **Manual QA Tester** at L.D.R.S Group Ltd, I was responsible for ensuring the quality and reliability of software through meticulous testing processes. Over the two-month contract, I actively contributed to improving the user experience and software functionality by performing detailed testing activities. <br><br>
-        📋 Designed and executed comprehensive **test scenarios** and created precise **test cases** to cover all critical functionalities.  <br>
-        🌬️ Conducted rigorous **smoke testing** to detect critical issues early in the development lifecycle.  <br>
-        🐛 Identified, documented, and reported bugs and defects using detailed bug reports, ensuring timely resolutions.  <br>
-        🔄 Performed thorough **retesting** to validate fixes and conducted **regression testing** to ensure no new issues were introduced.  <br>
-        🖥️ Conducted detailed **UI Testing** to ensure seamless user interaction and verified all functionalities through **functional testing**.  <br>
-        🤝 Collaborated closely with developers to resolve issues, improve functional areas, and enhance overall product quality.  <br>
-        📞 Participated in daily status meetings to provide progress updates and ensure alignment with agile workflows.  <br>
-        ⏱️ Delivered high-quality results within tight deadlines, showcasing a strong commitment to quality assurance and attention to detail.  <br>
-      </p>
-    </td>
-  </tr>
-</table>
-
-
-<table style="border: none;">
-  <tr>
-    <td>
-      <img width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="250" alt="UI_UX_Design">
-      <p>
-        **Skills :** <br>
-        Web & Mobile Applications 
-        Manual Testing | Writing Test Cases 
-        Test Execution | Requirement Analysis 
-        Test Design Planning | Test Data Creation 
-        Bug Tracking | Jira | Agile Teams (Scrum) 
-        Collaboration with Developers | Usability Testing 
-      </p>
-    </td>
-    <td>
-      <h3>Software Quality Assurance Manual Tester</h3>  
-      <h4><b>Adventa Technologies Pty Ltd</b></h4>
-      <i>June 2023 - December 2023</i> <br><br>
-      <p>
-        🌟 Transitioning into a part-time role after my initial internship, I gained diverse hands-on experience and contributed to various design and testing projects at Adventa Technologies. <br><br>
-        
-📱 Focused on user-centric designs, improving user experiences across platforms. <br>
-🔍 Performed manual testing for web applications, identifying and reporting bugs using **Jira**. <br>
-📝 Wrote detailed test cases, executed test plans, and ensured high-quality deliverables. <br>
-📋 Analyzed requirements, created test data, and developed test design plans. <br>
-🤝 Collaborated with developers to discuss functional requirements and resolve testing issues. <br>
-📞 Actively participated in daily status calls, meetings, and agile scrum sessions. <br>
-⏱️ Delivered all tasks under tight deadlines, maintaining excellent quality and precision. <br>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table style="border: none;">
-  <tr>
-    <td>
-      <img width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="250" alt="UI_UX_Design">
-       <p>
-      Skills : <br>
-      UI/UX Design | Figma | Adobe XD 
-      Wireframing & Prototyping | 
-      User Interface Design | Figma 
-      Prototyping | Wireframing | High-Fidelity Designs 
-      Usability Testing | User Research 
-      Interaction Design | Design Systems 
-      Collaboration with Developers 
-      Responsive Design | Accessibility Standards 
-      Visual Design | Agile Workflow 
-      </p>
-    </td>
-    <td>
-      <h3>Intern UI/UX Designer</h3>  
-      <h4> <b>Adventa Technologies Pty Ltd</b></h4>
-      <i>March 2023 - May 2023</i> <br><br>
-      <p>
-        🎨 During my internship as a UI/UX Designer at Adventa Technologies, I honed my skills in creating intuitive and visually appealing digital experiences while collaborating with cross-functional teams. <br>
-        
-💻 Designed responsive web and mobile interfaces using **Figma** <br>
-🎨 Designed wireframes and prototypes for web and mobile applications using **Figma** and **Adobe XD**. <br>
-📋 Conducted user research to gather insights for design improvements <br>
-🖼️ Created wireframes, prototypes, and high-fidelity prototypes for client projects <br>
-🤝 Collaborated with developers to ensure seamless implementation of designs <br>
-📞 Participated in design reviews and presented concepts to stakeholders <br>
-⏱️ Worked in an agile environment to meet tight deadlines while delivering quality designs <br>
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
@@ -342,6 +193,168 @@ Student Name: Jayathunga T.M.
   <br><br><img src="https://github-profile-trophy.vercel.app/?username=ThiroshMadhusha&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br>
 </div>
 <br>
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
+
+
+## 🕵️‍♂️ -- **My Work Experience** --
+<div>
+
+<table style="border: none;">
+  <tr>
+    <td>
+      <img width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="250" alt="QA Tester">
+      <p>
+      Skills : <br>
+      Manual Testing | Automation Testing | <br>
+      Selenium WebDriver  TestNG Framework | <br>
+      CI/CD Integration (Jenkins) <br>
+      Page Object Model | BrowserStack | <br>
+      API Testing (Postman) | Test Case Writing | <br>
+      Test Scenario Design | Test Execution <br>
+      Smoke Testing | Regression Testing | <br>
+      Sanity Testing | UI/UX Testing <br>
+      Functional & Non-Functional Testing <br>
+      Bug Tracking (GitHub) | X-Mind Mapping Tool <br>
+      Agile Workflows | Requirement Analysis | <br>
+       Cross-Browser Testing <br>
+      </p>
+    </td>
+    <td>
+      <h3>Manual & Automation QA Tester</h3>  
+      <h4><b>DLAD Software Solution (Pvt) Ltd</b></h4>
+      <i>April 2024 - Present</i> <br><br>
+      <p>
+        🔍 As a Manual & Automation QA Tester at DLAD Software Solution, I utilized my expertise to ensure the delivery of high-quality web applications by combining manual and automated testing techniques. My contributions played a vital role in optimizing application performance and reliability. <br><br>
+        📝 Designed comprehensive test scenarios and developed precise test cases to ensure full test coverage.  
+        🤖 Conducted automation testing using Selenium WebDriver and implemented the TestNG Framework with the Page Object Model (POM).  
+        🔄 Integrated CI/CD pipelines via Jenkins, automating test execution and generating detailed reports.  
+        🗃️ Developed data-driven testing frameworks using TestNG with parameterized inputs for increased efficiency.  
+        📋 Conducted requirement analysis, created test data, and planned test scenarios for various projects.  
+        🌐 Performed cross-browser compatibility testing and optimized scripts for mobile responsiveness using BrowserStack.  
+        🐛 Created bug reports and tracked issues using the GitHub Projects Issue Board, ensuring swift resolutions.  
+        🧪 Conducted diverse testing types, including smoke, regression, sanity, UI/UX, functional, and non-functional testing.  
+        📍 Used X-Mind Mapping Tools for efficient test case analysis and documentation.  
+        🔍 Performed API testing with Postman, verifying endpoints and ensuring seamless API functionality.  
+        🤝 Collaborated with developers to discuss functional requirements and resolve testing issues.  
+        📞 Actively participated in SCRUM and daily standup meetings, contributing to agile workflows.  
+        ⏱️ Delivered tasks under tight deadlines, maintaining exceptional quality and completing projects ahead of schedule.  
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+<table style="border: none;">
+  <tr>
+    <td>
+      <img width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="250" alt="Manual QA Tester">
+      <p>
+      Skills : <br>
+      Manual Testing | Bug Reporting <br>
+      Test Scenarios Design | Smoke Testing <br>
+      Test Execution | Test Cases Design <br>  
+      Retesting | Regression Testing <br>
+      UI Testing | Functional Testing <br>
+      Agile Methodology | <br>
+      Collaboration with Developers <br>
+      </p>
+    </td>
+    <td>
+      <h3>Manual QA Tester</h3>  
+      <h4><b>L.D.R.S Group Ltd</b></h4>
+      <i>January 2024 - March 2024</i> <br><br>
+      <p>
+        🔍 As a Manual QA Tester at L.D.R.S Group Ltd, I was responsible for ensuring the quality and reliability of software through meticulous testing processes. Over the two-month contract, I actively contributed to improving the user experience and software functionality by performing detailed testing activities. <br><br>
+        📋 Designed and executed comprehensive **test scenarios** and created precise test cases to cover all critical functionalities.  
+        🌬️ Conducted rigorous smoke testing to detect critical issues early in the development lifecycle.  
+        🐛 Identified, documented, and reported bugs and defects using detailed bug reports, ensuring timely resolutions.  
+        🔄 Performed thorough retesting to validate fixes and conducted regression testing to ensure no new issues were introduced.  
+        🖥️ Conducted detailed UI Testing to ensure seamless user interaction and verified all functionalities through functional testing.  
+        🤝 Collaborated closely with developers to resolve issues, improve functional areas, and enhance overall product quality.  
+        📞 Participated in daily status meetings to provide progress updates and ensure alignment with agile workflows.  
+        ⏱️ Delivered high-quality results within tight deadlines, showcasing a strong commitment to quality assurance and attention to detail.  
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+<table style="border: none;">
+  <tr>
+    <td>
+      <img width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="250" alt="UI_UX_Design">
+      <p>
+        Skills : <br>
+        Web & Mobile Applications <br>
+        Manual Testing | <br>
+        Writing Test Cases | <br>
+        Test Execution | Jira | <br>
+        Requirement Analysis | <br>
+        Test Design Planning | <br>
+        Test Data Creation <br>
+        Bug Tracking | Agile Teams (Scrum) <br>
+        Collaboration with Developers | <br>
+        Usability Testing <br>
+      </p>
+    </td>
+    <td>
+      <h3>Software Quality Assurance Manual Tester</h3>  
+      <h4><b>Adventa Technologies Pty Ltd</b></h4>
+      <i>June 2023 - December 2023</i> <br><br>
+      <p>
+        🌟 Transitioning into a part-time role after my initial internship, I gained diverse hands-on experience and contributed to various design and testing projects at Adventa Technologies. <br><br>
+        
+📱 Focused on user-centric designs, improving user experiences across platforms. 
+🔍 Performed manual testing for web applications, identifying and reporting bugs using Jira. 
+📝 Wrote detailed test cases, executed test plans, and ensured high-quality deliverables. 
+📋 Analyzed requirements, created test data, and developed test design plans. 
+🤝 Collaborated with developers to discuss functional requirements and resolve testing issues. 
+📞 Actively participated in daily status calls, meetings, and agile scrum sessions. 
+⏱️ Delivered all tasks under tight deadlines, maintaining excellent quality and precision. 
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table style="border: none;">
+  <tr>
+    <td>
+      <img width="300" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="250" alt="UI_UX_Design">
+       <p>
+      Skills : <br>
+      UI/UX Design | Figma | Adobe XD | <br>
+      Wireframing & Prototyping | <br>
+      User Interface Design | Figma | <br>
+      Prototyping | Wireframing | <br>
+      High-Fidelity Designs | <br>
+      Usability Testing | User Research | <br>
+      Interaction Design | Design Systems | <br>
+      Collaboration with Developers | <br>
+      Responsive Design | <br>
+      Accessibility Standards | <br>
+      Visual Design | Agile Workflow | <br>
+      </p>
+    </td>
+    <td>
+      <h3>Intern UI/UX Designer</h3>  
+      <h4> <b>Adventa Technologies Pty Ltd</b></h4>
+      <i>March 2023 - May 2023</i> <br><br>
+      <p>
+        During my internship as a UI/UX Designer at Adventa Technologies, I honed my skills in creating intuitive and visually appealing digital experiences while collaborating with cross-functional teams. <br><br>
+        💻 Designed responsive web and mobile interfaces using Figma 
+        🎨 Designed wireframes and prototypes for web and mobile applications using Figma and Adobe XD. 
+        📋 Conducted user research to gather insights for design improvements 
+        🖼️ Created wireframes, prototypes, and high-fidelity prototypes for client projects 
+        🤝 Collaborated with developers to ensure seamless implementation of designs 
+        📞 Participated in design reviews and presented concepts to stakeholders 
+        ⏱️ Worked in an agile environment to meet tight deadlines while delivering quality designs
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
