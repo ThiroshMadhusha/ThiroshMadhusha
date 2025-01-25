@@ -325,15 +325,10 @@ Student Name: Jayathunga T.M.
       Skills : <br>
       UI/UX Design | Figma | Adobe XD | <br>
       Wireframing & Prototyping | <br>
-      User Interface Design | Figma | <br>
+      User Interface Design | <br>
       Prototyping | Wireframing | <br>
       High-Fidelity Designs | <br>
-      Usability Testing | User Research | <br>
-      Interaction Design | Design Systems | <br>
-      Collaboration with Developers | <br>
       Responsive Design | <br>
-      Accessibility Standards | <br>
-      Visual Design | Agile Workflow | <br>
       </p>
     </td>
     <td>
