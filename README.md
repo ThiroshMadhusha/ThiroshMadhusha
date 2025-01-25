@@ -287,15 +287,12 @@ Student Name: Jayathunga T.M.
       <p>
         Skills : <br>
         Web & Mobile Applications <br>
-        Manual Testing | <br>
-        Writing Test Cases | <br>
-        Test Execution | Jira | <br>
-        Requirement Analysis | <br>
-        Test Design Planning | <br>
-        Test Data Creation <br>
+        Manual Testing | Requirement Analysis | <br>
+        Writing Test Cases | Jira <br>
+        Test Execution | Test Design Planning | <br>
+        Test Data Creation | Usability Testing <br>
         Bug Tracking | Agile Teams (Scrum) <br>
         Collaboration with Developers | <br>
-        Usability Testing <br>
       </p>
     </td>
     <td>
