@@ -18,7 +18,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=radical)
 -->
 
-<h1 align="center">Hello 👋 </h1>
+<h1 align="center"  width="100%">Hello 👋 </h1>
 
   ![header](https://capsule-render.vercel.app/api?type=venom&height=200&align=center&color=gradient&text=I'm%20Thirosh%20Madhusha)
 
@@ -27,10 +27,12 @@
 
 <!-- My About Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;I'm+a+QA+Engineer!;I'm+a+Manual+Tester!;I'm+a+Automation+Tester!;I'm+a+Bug+Hunter!;I'm+a+API+Tester!&font=Fira%50Code&center=true&width=380&height=50"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;I'm+a+QA+Engineer!;I'm+a+Manual+Tester!;I'm+a+Automation+Tester!;I'm+a+Bug+Hunter!;I'm+a+API+Tester!&font=Fira%50Code&center=true&width=380&height=50">
+ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
 </p>
 
-![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
+<img align="center" alt="coding" width="100%" hight="50" src="https://cdn.prod.website-files.com/5fac161927bf86485ba43fd0/6229d40f625c70840c12bcd7_BlogGif_2.gif"> 
+
 
 <br>
 <table style="border: none;">
@@ -406,3 +408,5 @@ If You liked My Profile, You Can Star ⭐ the Repository): If You Want To Use Th
 <p align="center"> 
   Thanks for Visiting...! :heart:
 </p>
+<!--🦶FOOTER--> 
+<img src="footer.svg" width="100%">
