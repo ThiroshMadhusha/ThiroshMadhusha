@@ -1,3 +1,6 @@
+
+   
+
 <!--  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ThiroshMadhusha?cardType=level-alternate&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
  
 ![ThiroshMadhusha's Stats](https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage&include_all_commits=true&org=dladio)
@@ -382,6 +385,11 @@ Student Name: Jayathunga T.M.
   
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
+## 🐍 -- **Snake Eat my Contribution** --
+<a href="https://github.com/ThiroshMadhusha">
+     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/output/github-snake-darkBlue.svg" />
+ 
+
 ![git](https://user-images.githubusercontent.com/79472177/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg)
 
 
@@ -393,6 +401,7 @@ Student Name: Jayathunga T.M.
   
   <img src="https://profile-counter.glitch.me/ThiroshMadhusha/count.svg" />
 </p>
+
 
 
 <p align="center"> 
@@ -408,5 +417,7 @@ If You liked My Profile, You Can Star ⭐ the Repository): If You Want To Use Th
 <p align="center"> 
   Thanks for Visiting...! :heart:
 </p>
+
+
 <!--🦶FOOTER--> 
 <img src="footer.svg" width="100%">
