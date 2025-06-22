@@ -37,6 +37,19 @@
 <img align="center" alt="coding" width="100%" hight="50" src="https://cdn.prod.website-files.com/5fac161927bf86485ba43fd0/6229d40f625c70840c12bcd7_BlogGif_2.gif"> 
 
 
+$$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
+
+<a href="https://github.com/ThiroshMadhusha">
+  <img src="https://render.gitanimals.org/lines/ThiroshMadhusha?pet-id=724659265412380165" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/ThiroshMadhusha?pet-id=724659265412380169" width="30%" height="100" />
+  <img src="https://render.gitanimals.org/lines/ThiroshMadhusha?pet-id=724659265412380166" width="30%" height="100" />
+</a>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/ThiroshMadhusha"/>
+</a>
+
+
 <br>
 <table style="border: none;">
   <tr>
@@ -174,6 +187,7 @@ Student Name: Jayathunga T.M.
 </table> 
 <br><br>
 
+
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
 ### Profile Views
@@ -192,11 +206,25 @@ Student Name: Jayathunga T.M.
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
-<!-- <img src="https://github-profile-trophy.vercel.app?username=ThiroshMadhusha&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  /> -->
+<!-- <img src="https://github-profile-trophy.vercel.app?username=ThiroshMadhusha&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" 
 
 <div align="center">
   <br><br><img src="https://github-profile-trophy.vercel.app/?username=ThiroshMadhusha&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br>
 </div>
+ /> -->
+
+## 🏆 -- **Github Trophies** --
+
+<p align="center">
+  <a href="https://github.com/kavicastelo">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=ThiroshMadhusha&theme=radical&no-frame=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=ThiroshMadhusha&no-frame=true" />
+    <img width=800 alt="troophy" src="troophy.svg"  style="display:block; margin:auto;"/>
+    </picture>
+  </a>
+</p>
+
 <br>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
