@@ -46,9 +46,12 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 </a>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/ThiroshMadhusha"/>
+  <img src="https://render.gitanimals.org/farms/ThiroshMadhusha" width="100%" height="400"/>
 </a>
 
+<br/>
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
 <br>
 <table style="border: none;">
