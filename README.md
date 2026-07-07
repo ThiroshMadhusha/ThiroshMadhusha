@@ -1,34 +1,11 @@
-
     
-
-<!--  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ThiroshMadhusha?cardType=level-alternate&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
- 
-![ThiroshMadhusha's Stats](https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage&include_all_commits=true&org=dladio)
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiroshMadhusha&theme=tokyonight&hide_border=true"/>
-
-![ThiroshMadhusha's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThiroshMadhusha&theme=tokyonight&hide_border=true&count_private=true&show=prs_merged_percentage&include_all_commits=true&orgs=dladio)
-
-![ThiroshMadhusha's Stats](https://github-readme-stats-one-bice.vercel.app/api?username=ThiroshMadhusha&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage&include_all_commits=true&orgs=dladio)
-
-![ThiroshMadhusha's Stats](https://github-readme-stats-one-bice.vercel.app/api?username=ThiroshMadhusha&show_icons=true&show=prs_merged_percentage&include_all_commits=true&count_private=true)
-
-![ThiroshMadhusha's Stats](https://github-readme-stats-one-bice.vercel.app/api?username=ThiroshMadhusha&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
-
-## GitHub Activity
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=radical)
--->
 
 <h1 align="center"  width="100%">Hello 👋 </h1>
 
   ![header](https://capsule-render.vercel.app/api?type=venom&height=200&align=center&color=gradient&text=I'm%20Thirosh%20Madhusha)
 
-<!-- <h1 align="center">Hello 👋, I'm Thirosh Madhusha <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h1> -->
 <br>
 
-<!-- My About Section -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;I'm+a+QA+Engineer!;I'm+a+Manual+Tester!;I'm+a+Automation+Tester!;I'm+a+Bug+Hunter!;I'm+a+API+Tester!&font=Fira%50Code&center=true&width=380&height=50">
  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
@@ -82,14 +59,11 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 </p>
 
 <br/>
-<!-- Badges with custom icons section -->
 <p align="center" width="100%">
   <a href="https://github.com/ThiroshMadhusha?tab=ProfileViews" target="_blank">
     <img align="center" alt="Thirosh Madhusha | Profile Views" width="150px" height="30px" src="https://komarev.com/ghpvc/?username=ThiroshMadhusha&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> </a> &nbsp;&nbsp;
   <a href="https://github.com/ThiroshMadhusha?tab=followers" target="_blank">
     <img align="center" alt="Thirosh Madhusha | followers" width="150px" height="30px" src="https://img.shields.io/github/followers/ThiroshMadhusha?label=Followers&style=social" /> </a> &nbsp;&nbsp;
-<!--   <a href="https://github.com/ThiroshMadhusha?tab=Stars" target="_blank">
-    <img align="center" alt="Thirosh Madhusha | Stars" width="140px" src="https://custom-icon-badges.herokuapp.com/github/stars/ThiroshMadhusha?color=e67e22&style=for-the-badge&labelColor=2c3e50&logo=star"/> </a> &nbsp;&nbsp; -->
   <a href="https://stackoverflow.com/users/16248685/thirosh-madhusha">
     <img align="center" alt="Thirosh Madhusha | Stack Exchange reputation" width="150px" height="30px" src="https://img.shields.io/stackexchange/stackoverflow/r/16248685?color=orange&label=Reputation&logo=stackoverflow"> </a> &nbsp;&nbsp
     <a href="https://github.com/ThiroshMadhusha?tab=stars" target="_blank">
@@ -137,28 +111,11 @@ Student Name: Jayathunga T.M.
 
 ## 🔥 -- **GitHub Streak Status** --
 
-<!--
-<div align="center">
-<p align="center">
-  <a href="https://github.com/ThiroshMadhusha/github-readme-streak-stats">
-    <img width="47%" align="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ThiroshMadhusha's streak" src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=gruvbox&amp;hide_border=true" alt="GitHub status" />
-  </a>
-  
-  <a href="https://github.com/ThiroshMadhusha/github-readme-cotribution-stats">
-    <img width="47%" align="right" title="🔥 Get streak stats for your profile at git.io/contribution-stats" alt="ThiroshMadhusha's streak" src="https://github-readme-streak-stats.herokuapp.com?user=ThiroshMadhusha&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-</div> 
--->
 <table border="0">
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&show_icons=true&theme=radical)
--->
   <tr>    
     <td align="center"> 
       <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ThiroshMadhusha&theme=gruvbox&show_icons=true&hide_border=true&count_private=true&show=prs_merged_percentage&include_all_commits=true&orgs=dladio" />
-<!--         <img src="https://github-readme-stats.vercel.app/api?username=ThiroshMadhusha&&show_icons=true&theme=gruvbox&hide_border=true"/>
-    </td> -->
+    </td>
     <td align="center">
        <div>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiroshMadhusha&theme=tokyonight&hide_border=true">
@@ -192,9 +149,6 @@ Student Name: Jayathunga T.M.
 
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
-<!-- Profile Views -->
-
-<!-- Profile Views -->
 
 <br/>
 
@@ -211,21 +165,11 @@ Student Name: Jayathunga T.M.
 <div align="center">
   <img src="https://count.getloli.com/get/@ThiroshMadhusha.github.readme" width="60%" height="250" />
 </div>
-<!-- 
-![](https://count.getloli.com/get/@ThiroshMadhusha.github.readme)
--->
 
 </br>
 
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
-
-<!-- <img src="https://github-profile-trophy.vercel.app?username=ThiroshMadhusha&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" 
-
-<div align="center">
-  <br><br><img src="https://github-profile-trophy.vercel.app/?username=ThiroshMadhusha&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br>
-</div>
- /> -->
 
 ## 🏆 -- **Github Trophies** --
 
@@ -245,6 +189,9 @@ Student Name: Jayathunga T.M.
 
 
 ## 🕵️‍♂️ -- **My Work Experience** --
+
+<details>
+<summary>Click to expand</summary>
 <div>
 
 <table style="border: none;">
@@ -394,13 +341,13 @@ Student Name: Jayathunga T.M.
 </table>
 
 </div>
+</details>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
 ## 💻 -- **GitHub Languages Status** --
 
 <div align="center">
-<!-- GitHub Readme languages Stats - https://github.com/ThiroshMadhusha/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/ThiroshMadhusha/github-readme-streak-stats">
     <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThiroshMadhusha&langs_count=6&count_private=true&layout=compact&theme=tokyonight" alt="language" />
@@ -461,5 +408,4 @@ If You liked My Profile, You Can Star ⭐ the Repository): If You Want To Use Th
 </p>
 
 
-<!--🦶FOOTER--> 
 <img src="footer.svg" width="100%">
