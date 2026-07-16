@@ -161,7 +161,9 @@ Student Name: Jayathunga T.M.
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/ThiroshMadhusha.svg)](https://user-badge.committers.top/sri_lanka_private/ThiroshMadhusha)
 
 </a>
-
+<p>
+  <a href="c/@ThiroshMadhusha"><img src="https://wakatime.com/badge/user/87225cf9-1142-4c2b-a8a7-40a825681d5b.svg" alt="Total time coded since Apr 5 2023" /></a>
+</p>
 <div align="center">
   <img src="https://count.getloli.com/get/@ThiroshMadhusha.github.readme" width="60%" height="250" />
 </div>
