@@ -12,7 +12,7 @@
 <!-- GitTrace Live Country Rank Badge -->
 <p align="center">
   <a href="https://gitranktrace.vercel.app/sri_lanka?user=ThiroshMadhusha" target="_blank">
-    <img src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=sri_lanka&rank=5&card=badge" alt="GitRankTrace Rank Badge" />
+    <img src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=sri_lanka&rank=5&card=badge&v=1795712006" alt="GitRankTrace Rank Badge" />
   </a>
 </p>
 
@@ -38,25 +38,35 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 <!-- ================= GitTrace Dynamic Showcase ================= -->
 <p align="center">
   <a href="https://gitranktrace.vercel.app/sri_lanka?user=ThiroshMadhusha" target="_blank">
-    <img width="100%" src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=sri_lanka&card=activity" alt="GitTrace Activity Wave Chart" />
+    <img width="100%" src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=sri_lanka&rank=5&name=Thirosh%20Madhusha&commits=26532&repos=92&followers=1130&stars=751&card=activity&v=1795712051" alt="GitRankTrace Activity Wave Chart" />
   </a>
 </p>
 
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <a href="https://gitranktrace.vercel.app/sri_lanka?user=ThiroshMadhusha" target="_blank">
-        <img width="100%" src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=sri_lanka&card=profile" alt="GitTrace Developer Card" />
-      </a>
+      <p align="center">
+        <a href="https://gitranktrace.vercel.app/sri_lanka?user=ThiroshMadhusha" target="_blank">
+          <img src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=sri_lanka&rank=5&name=Thirosh%20Madhusha&commits=26532&repos=92&followers=1130&stars=751&card=profile&v=1795712194" alt="GitRankTrace Developer Card" />
+        </a>
+      </p>
     </td>
     <td width="50%" align="center">
-      <a href="https://gitranktrace.vercel.app/sri_lanka?user=ThiroshMadhusha" target="_blank">
-        <img width="100%" src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=sri_lanka&card=bento" alt="GitTrace Stats & Grade Card" />
-      </a>
+      <p align="center">
+        <a href="https://gitranktrace.vercel.app/sri_lanka?user=ThiroshMadhusha" target="_blank">
+          <img src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=sri_lanka&rank=5&name=Thirosh%20Madhusha&commits=26532&repos=92&followers=1130&stars=751&card=bento&v=1795712147" alt="GitRankTrace Stats & Grade Card" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 <!-- ============================================================= -->
+
+<p align="center">
+  <a href="https://gitranktrace.vercel.app/sri_lanka?user=ThiroshMadhusha" target="_blank">
+    <img src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=sri_lanka&rank=5&name=Thirosh%20Madhusha&commits=26532&repos=92&followers=1130&stars=751&card=snake&v=1795712259" alt="GitRankTrace Contribution Snake" />
+  </a>
+</p>
 
 <br>
 <table style="border: none;">
