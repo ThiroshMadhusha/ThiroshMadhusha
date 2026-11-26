@@ -60,13 +60,17 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
     </td>
   </tr>
 </table>
+
 <!-- ============================================================= -->
 
+🐍 Snake Eat my Contribution Graph
 <p align="center">
   <a href="https://gitranktrace.vercel.app/sri_lanka?user=ThiroshMadhusha" target="_blank">
-    <img src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=sri_lanka&rank=5&name=Thirosh%20Madhusha&commits=26532&repos=92&followers=1130&stars=751&card=snake&v=1795712259" alt="GitRankTrace Contribution Snake" />
+    <img src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=sri_lanka&rank=5&name=Thirosh%20Madhusha&commits=26532&repos=92&followers=1130&stars=751&card=snake&v=1795713390" alt="GitRankTrace Contribution Snake" />
   </a>
 </p>
+
+<!-- ============================================================= -->
 
 <br>
 <table style="border: none;">
@@ -413,10 +417,11 @@ Student Name: Jayathunga T.M.
   
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
 
+```
 ## 🐍 -- **Snake Eat my Contribution** --
 <a href="https://github.com/ThiroshMadhusha">
      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DNXEMPIRE-1/DNXEMPIRE-1/output/github-snake-darkBlue.svg" />
- 
+ ```
 
 ![git](https://user-images.githubusercontent.com/79472177/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg)
 
