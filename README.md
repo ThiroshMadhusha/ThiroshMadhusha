@@ -1,5 +1,3 @@
-    
-
 <h1 align="center"  width="100%">Hello 👋 </h1>
 
   ![header](https://capsule-render.vercel.app/api?type=venom&height=200&align=center&color=gradient&text=I'm%20Thirosh%20Madhusha)
@@ -9,6 +7,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋!!;I'm+a+QA+Engineer!;I'm+a+Manual+Tester!;I'm+a+Automation+Tester!;I'm+a+Bug+Hunter!;I'm+a+API+Tester!&font=Fira%50Code&center=true&width=380&height=50">
  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
+</p>
+
+<!-- GitTrace Live Country Rank Badge -->
+<p align="center">
+  <a href="https://gitranktrace.vercel.app/sri_lanka?user=ThiroshMadhusha" target="_blank">
+    <img src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=sri_lanka&card=badge" alt="GitTrace Rank Badge" />
+  </a>
 </p>
 
 <img align="center" alt="coding" width="100%" hight="50" src="https://cdn.prod.website-files.com/5fac161927bf86485ba43fd0/6229d40f625c70840c12bcd7_BlogGif_2.gif"> 
@@ -29,6 +34,29 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 <br/>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/d5f490aa-d12a-45eb-935a-535c05da9261)
+
+<!-- ================= GitTrace Dynamic Showcase ================= -->
+<p align="center">
+  <a href="https://gitranktrace.vercel.app/sri_lanka?user=ThiroshMadhusha" target="_blank">
+    <img width="100%" src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=sri_lanka&card=activity" alt="GitTrace Activity Wave Chart" />
+  </a>
+</p>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://gitranktrace.vercel.app/sri_lanka?user=ThiroshMadhusha" target="_blank">
+        <img width="100%" src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=sri_lanka&card=profile" alt="GitTrace Developer Card" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://gitranktrace.vercel.app/sri_lanka?user=ThiroshMadhusha" target="_blank">
+        <img width="100%" src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=sri_lanka&card=bento" alt="GitTrace Stats & Grade Card" />
+      </a>
+    </td>
+  </tr>
+</table>
+<!-- ============================================================= -->
 
 <br>
 <table style="border: none;">
@@ -69,6 +97,7 @@ $$Life=\int\limits_{birth}^{death} {happiness \over time} \times \Delta time$$
 
 </p>
 <br/>
+<!-- <p align="center">
 <!-- <p align="center">
 
 ```
