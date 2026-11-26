@@ -15,6 +15,13 @@
     <img src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=sri_lanka&rank=5&card=badge&v=1795714248" alt="GitRankTrace Rank Badge" />
   </a>
 </p>
+<p align="center">
+  <a href="https://gitranktrace.vercel.app/worldwide?user=ThiroshMadhusha" target="_blank">
+    <img src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=worldwide&rank=249&card=badge&v=1795720943" alt="GitRankTrace Global Rank Badge" />
+  </a>
+</p>
+
+<!-- ============================================================= -->
 
 <img align="center" alt="coding" width="100%" hight="50" src="https://cdn.prod.website-files.com/5fac161927bf86485ba43fd0/6229d40f625c70840c12bcd7_BlogGif_2.gif"> 
 
