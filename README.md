@@ -12,7 +12,7 @@
 <!-- GitTrace Live Country Rank Badge -->
 <p align="center">
   <a href="https://gitranktrace.vercel.app/sri_lanka?user=ThiroshMadhusha" target="_blank">
-    <img src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=sri_lanka&rank=5&card=badge&v=1795712006" alt="GitRankTrace Rank Badge" />
+    <img src="https://git-trace-card.helloxpergen.workers.dev/?user=ThiroshMadhusha&country=sri_lanka&rank=5&card=badge&v=1795714248" alt="GitRankTrace Rank Badge" />
   </a>
 </p>
 
